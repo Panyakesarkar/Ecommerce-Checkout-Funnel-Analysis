@@ -1,0 +1,2501 @@
+Session_ID,Device_Type,Payment_Method,Cart_Value_INR,Product_Viewed,Added_To_Cart,Initiated_Checkout,Order_Completed,Dropoff_Reason
+SES-10001,iOS App,Debit Card,7514.0,1,1,1,1,None
+SES-10002,Android App,NetBanking,1384.16,1,0,0,0,None
+SES-10003,Mobile Web,UPI,3677.7,1,0,0,0,None
+SES-10004,Mobile Web,UPI,2333.24,1,1,1,1,None
+SES-10005,Mobile Web,Debit Card,5628.82,1,1,0,0,None
+SES-10006,Mobile Web,Credit Card,2513.64,1,1,1,0,Payment Gateway Timeout
+SES-10007,Android App,COD,5166.72,1,1,1,1,None
+SES-10008,Android App,UPI,8078.21,1,1,1,1,None
+SES-10009,Android App,Credit Card,4546.62,1,1,0,0,None
+SES-10010,iOS App,UPI,7476.86,1,1,1,0,Coupon Error
+SES-10011,iOS App,Debit Card,7879.92,1,1,1,1,None
+SES-10012,Mobile Web,UPI,5109.88,1,0,0,0,None
+SES-10013,iOS App,UPI,6391.29,1,1,1,1,None
+SES-10014,Desktop Web,COD,4106.17,1,1,1,1,None
+SES-10015,Android App,COD,7211.02,1,0,0,0,None
+SES-10016,Android App,COD,7459.04,1,0,0,0,None
+SES-10017,iOS App,Credit Card,3691.42,1,1,1,0,Payment Gateway Timeout
+SES-10018,Android App,NetBanking,536.06,1,1,1,1,None
+SES-10019,Android App,UPI,4798.7,1,1,0,0,None
+SES-10020,Desktop Web,UPI,3274.97,1,0,0,0,None
+SES-10021,Mobile Web,UPI,2296.06,1,1,1,1,None
+SES-10022,iOS App,UPI,1910.27,1,0,0,0,None
+SES-10023,iOS App,UPI,7818.68,1,1,0,0,None
+SES-10024,Android App,Credit Card,5557.75,1,0,0,0,None
+SES-10025,Android App,Debit Card,1923.47,1,1,0,0,None
+SES-10026,Desktop Web,UPI,3816.41,1,1,0,0,None
+SES-10027,Android App,COD,4517.06,1,1,0,0,None
+SES-10028,iOS App,UPI,6499.43,1,1,1,1,None
+SES-10029,Android App,COD,2140.32,1,0,0,0,None
+SES-10030,Android App,UPI,4276.01,1,1,1,1,None
+SES-10031,iOS App,UPI,6704.0,1,1,1,1,None
+SES-10032,iOS App,Credit Card,4025.54,1,1,1,1,None
+SES-10033,Android App,Credit Card,1741.08,1,0,0,0,None
+SES-10034,Android App,COD,8068.87,1,1,1,1,None
+SES-10035,Android App,UPI,5651.64,1,1,0,0,None
+SES-10036,Android App,UPI,1748.38,1,0,0,0,None
+SES-10037,Mobile Web,Credit Card,715.8,1,0,0,0,None
+SES-10038,Android App,UPI,5874.81,1,1,1,1,None
+SES-10039,Android App,UPI,6899.13,1,0,0,0,None
+SES-10040,Android App,Credit Card,2404.7,1,1,1,1,None
+SES-10041,Android App,UPI,6277.86,1,1,0,0,None
+SES-10042,Mobile Web,NetBanking,3676.87,1,0,0,0,None
+SES-10043,Mobile Web,UPI,2844.47,1,1,1,1,None
+SES-10044,Desktop Web,UPI,1183.15,1,0,0,0,None
+SES-10045,Android App,UPI,1950.66,1,1,1,1,None
+SES-10046,iOS App,UPI,7641.27,1,1,0,0,None
+SES-10047,Mobile Web,UPI,2574.65,1,1,1,1,None
+SES-10048,Android App,Credit Card,2643.78,1,0,0,0,None
+SES-10049,iOS App,UPI,4915.93,1,0,0,0,None
+SES-10050,Android App,UPI,8087.57,1,0,0,0,None
+SES-10051,Mobile Web,UPI,7447.61,1,1,1,0,OTP Delay / Drop
+SES-10052,Desktop Web,NetBanking,3901.13,1,0,0,0,None
+SES-10053,Android App,UPI,4832.62,1,0,0,0,None
+SES-10054,iOS App,UPI,1613.99,1,1,1,1,None
+SES-10055,Mobile Web,COD,4705.05,1,0,0,0,None
+SES-10056,Android App,UPI,646.14,1,0,0,0,None
+SES-10057,Desktop Web,UPI,5111.71,1,0,0,0,None
+SES-10058,Android App,Credit Card,5711.01,1,1,1,1,None
+SES-10059,Mobile Web,UPI,586.98,1,0,0,0,None
+SES-10060,Android App,COD,7490.99,1,1,1,0,OTP Delay / Drop
+SES-10061,iOS App,Debit Card,1902.15,1,1,0,0,None
+SES-10062,Desktop Web,UPI,3564.49,1,1,1,1,None
+SES-10063,iOS App,UPI,1829.43,1,1,1,1,None
+SES-10064,Mobile Web,UPI,5324.82,1,1,1,0,Payment Gateway Timeout
+SES-10065,Android App,UPI,3344.74,1,1,1,0,Unexpected Shipping Fee
+SES-10066,Android App,Credit Card,4307.88,1,1,1,1,None
+SES-10067,Mobile Web,COD,6360.31,1,1,1,0,Payment Gateway Timeout
+SES-10068,Android App,UPI,5260.22,1,0,0,0,None
+SES-10069,Android App,Credit Card,5274.34,1,1,1,1,None
+SES-10070,Android App,Debit Card,1351.89,1,1,1,1,None
+SES-10071,Android App,Debit Card,4463.43,1,1,1,0,OTP Delay / Drop
+SES-10072,Android App,UPI,7052.64,1,1,1,1,None
+SES-10073,Mobile Web,Debit Card,2676.43,1,1,1,0,OTP Delay / Drop
+SES-10074,Android App,UPI,7838.43,1,0,0,0,None
+SES-10075,Android App,COD,4067.49,1,1,0,0,None
+SES-10076,Android App,Credit Card,7483.44,1,1,1,1,None
+SES-10077,Mobile Web,NetBanking,5769.93,1,0,0,0,None
+SES-10078,Mobile Web,NetBanking,2496.59,1,0,0,0,None
+SES-10079,iOS App,UPI,8401.33,1,1,1,1,None
+SES-10080,Desktop Web,UPI,6144.31,1,0,0,0,None
+SES-10081,Desktop Web,UPI,5043.13,1,1,0,0,None
+SES-10082,Desktop Web,UPI,6079.06,1,1,1,1,None
+SES-10083,Android App,COD,8268.44,1,1,1,1,None
+SES-10084,Desktop Web,UPI,7396.2,1,1,0,0,None
+SES-10085,Mobile Web,UPI,7131.15,1,1,0,0,None
+SES-10086,Android App,Credit Card,2339.3,1,1,1,1,None
+SES-10087,Android App,UPI,6070.01,1,1,0,0,None
+SES-10088,Android App,Debit Card,1021.92,1,1,1,0,Payment Gateway Timeout
+SES-10089,iOS App,NetBanking,3049.34,1,1,1,1,None
+SES-10090,iOS App,COD,5426.52,1,0,0,0,None
+SES-10091,Android App,UPI,7460.66,1,1,0,0,None
+SES-10092,Android App,COD,4731.03,1,0,0,0,None
+SES-10093,Desktop Web,NetBanking,8483.47,1,1,0,0,None
+SES-10094,Android App,Debit Card,3714.85,1,1,0,0,None
+SES-10095,iOS App,Credit Card,7489.29,1,0,0,0,None
+SES-10096,Desktop Web,Debit Card,3841.55,1,1,1,0,OTP Delay / Drop
+SES-10097,Mobile Web,UPI,1382.9,1,1,0,0,None
+SES-10098,Android App,UPI,2869.76,1,0,0,0,None
+SES-10099,Android App,UPI,642.01,1,0,0,0,None
+SES-10100,Desktop Web,UPI,3574.0,1,0,0,0,None
+SES-10101,Mobile Web,UPI,8099.64,1,0,0,0,None
+SES-10102,Mobile Web,UPI,3840.06,1,0,0,0,None
+SES-10103,Desktop Web,COD,4238.68,1,1,0,0,None
+SES-10104,iOS App,UPI,8429.34,1,1,1,1,None
+SES-10105,Android App,COD,5696.82,1,1,1,1,None
+SES-10106,iOS App,Credit Card,2344.59,1,0,0,0,None
+SES-10107,Android App,UPI,1990.69,1,0,0,0,None
+SES-10108,Mobile Web,UPI,961.8,1,1,1,1,None
+SES-10109,Desktop Web,COD,7921.95,1,0,0,0,None
+SES-10110,Desktop Web,UPI,3669.33,1,1,0,0,None
+SES-10111,Mobile Web,Debit Card,1730.32,1,1,1,0,Unexpected Shipping Fee
+SES-10112,Android App,UPI,4795.33,1,0,0,0,None
+SES-10113,iOS App,Credit Card,1230.99,1,1,1,1,None
+SES-10114,Desktop Web,UPI,1535.25,1,0,0,0,None
+SES-10115,Desktop Web,COD,7396.88,1,1,1,1,None
+SES-10116,Mobile Web,Credit Card,4906.41,1,0,0,0,None
+SES-10117,Android App,UPI,3480.88,1,1,1,1,None
+SES-10118,Android App,Debit Card,4466.5,1,0,0,0,None
+SES-10119,Android App,UPI,5965.75,1,0,0,0,None
+SES-10120,Android App,COD,4460.67,1,1,0,0,None
+SES-10121,iOS App,Credit Card,7097.27,1,1,1,1,None
+SES-10122,Android App,Debit Card,5025.42,1,1,1,0,Payment Gateway Timeout
+SES-10123,Desktop Web,NetBanking,5767.27,1,1,1,1,None
+SES-10124,Mobile Web,COD,6166.61,1,0,0,0,None
+SES-10125,Mobile Web,Debit Card,5940.81,1,0,0,0,None
+SES-10126,iOS App,Debit Card,1768.0,1,1,1,1,None
+SES-10127,Desktop Web,COD,733.01,1,0,0,0,None
+SES-10128,Mobile Web,UPI,3180.29,1,1,1,1,None
+SES-10129,Mobile Web,UPI,7043.55,1,1,0,0,None
+SES-10130,Mobile Web,Credit Card,550.09,1,1,1,0,Payment Gateway Timeout
+SES-10131,iOS App,COD,5554.14,1,1,1,1,None
+SES-10132,Android App,Credit Card,4819.42,1,1,1,1,None
+SES-10133,Mobile Web,UPI,6587.98,1,1,0,0,None
+SES-10134,iOS App,COD,3234.32,1,1,1,0,OTP Delay / Drop
+SES-10135,Desktop Web,UPI,7997.77,1,1,1,0,OTP Delay / Drop
+SES-10136,Android App,UPI,6165.08,1,1,0,0,None
+SES-10137,Android App,Credit Card,3266.41,1,1,1,1,None
+SES-10138,iOS App,UPI,7472.17,1,1,1,1,None
+SES-10139,Desktop Web,COD,6496.96,1,1,0,0,None
+SES-10140,Android App,Debit Card,695.72,1,1,1,1,None
+SES-10141,Android App,UPI,4408.63,1,1,0,0,None
+SES-10142,Mobile Web,Debit Card,4066.67,1,1,0,0,None
+SES-10143,Android App,COD,3908.88,1,1,0,0,None
+SES-10144,iOS App,UPI,6858.27,1,1,1,1,None
+SES-10145,Mobile Web,UPI,1158.13,1,0,0,0,None
+SES-10146,Mobile Web,Credit Card,2685.35,1,1,0,0,None
+SES-10147,Desktop Web,UPI,3958.11,1,0,0,0,None
+SES-10148,Desktop Web,UPI,5607.85,1,1,1,0,Payment Gateway Timeout
+SES-10149,Android App,COD,3774.08,1,1,1,1,None
+SES-10150,Desktop Web,UPI,2204.05,1,0,0,0,None
+SES-10151,Android App,Credit Card,3447.58,1,1,0,0,None
+SES-10152,Mobile Web,UPI,8245.52,1,1,1,1,None
+SES-10153,Android App,COD,6712.55,1,1,1,1,None
+SES-10154,Mobile Web,NetBanking,6587.95,1,1,1,0,OTP Delay / Drop
+SES-10155,Android App,UPI,7866.7,1,1,1,1,None
+SES-10156,iOS App,NetBanking,4351.66,1,1,1,0,Payment Gateway Timeout
+SES-10157,Android App,Debit Card,3941.88,1,1,0,0,None
+SES-10158,Android App,Credit Card,1012.74,1,0,0,0,None
+SES-10159,iOS App,UPI,6880.27,1,1,1,1,None
+SES-10160,Android App,UPI,591.98,1,1,1,1,None
+SES-10161,Android App,UPI,4338.99,1,1,1,1,None
+SES-10162,iOS App,UPI,6059.55,1,1,1,0,Unexpected Shipping Fee
+SES-10163,Mobile Web,UPI,4343.54,1,1,0,0,None
+SES-10164,Android App,UPI,8393.29,1,1,1,1,None
+SES-10165,Android App,Credit Card,5444.86,1,0,0,0,None
+SES-10166,Mobile Web,Credit Card,577.18,1,1,1,0,Payment Gateway Timeout
+SES-10167,iOS App,UPI,3304.37,1,1,1,1,None
+SES-10168,Android App,UPI,3674.78,1,1,0,0,None
+SES-10169,Android App,Credit Card,6015.41,1,0,0,0,None
+SES-10170,Mobile Web,UPI,1839.03,1,0,0,0,None
+SES-10171,Android App,Credit Card,6151.51,1,0,0,0,None
+SES-10172,Android App,COD,914.82,1,1,1,1,None
+SES-10173,iOS App,Debit Card,7467.62,1,1,1,1,None
+SES-10174,Mobile Web,NetBanking,3214.94,1,1,0,0,None
+SES-10175,Mobile Web,UPI,7658.43,1,1,0,0,None
+SES-10176,iOS App,NetBanking,4118.0,1,1,0,0,None
+SES-10177,iOS App,Credit Card,6352.45,1,0,0,0,None
+SES-10178,Android App,UPI,2476.07,1,0,0,0,None
+SES-10179,Android App,COD,2252.93,1,0,0,0,None
+SES-10180,Desktop Web,UPI,1956.13,1,1,1,1,None
+SES-10181,Mobile Web,Credit Card,4485.06,1,0,0,0,None
+SES-10182,iOS App,Debit Card,2326.87,1,0,0,0,None
+SES-10183,Desktop Web,COD,5702.26,1,1,1,1,None
+SES-10184,Android App,Debit Card,1076.66,1,1,1,1,None
+SES-10185,Android App,UPI,4200.45,1,0,0,0,None
+SES-10186,Mobile Web,Debit Card,6441.39,1,1,1,1,None
+SES-10187,Android App,UPI,3467.68,1,1,1,1,None
+SES-10188,Desktop Web,UPI,7436.12,1,1,1,1,None
+SES-10189,iOS App,UPI,6301.79,1,1,0,0,None
+SES-10190,iOS App,COD,7705.52,1,0,0,0,None
+SES-10191,Android App,UPI,5238.39,1,1,1,1,None
+SES-10192,Desktop Web,UPI,5483.36,1,1,1,1,None
+SES-10193,iOS App,Debit Card,1551.67,1,1,1,1,None
+SES-10194,Mobile Web,COD,1936.64,1,1,1,0,Payment Gateway Timeout
+SES-10195,Desktop Web,UPI,7334.94,1,1,1,1,None
+SES-10196,iOS App,UPI,7465.87,1,1,1,1,None
+SES-10197,Android App,Credit Card,3373.23,1,1,1,1,None
+SES-10198,iOS App,UPI,3628.04,1,1,1,1,None
+SES-10199,Desktop Web,UPI,5753.55,1,1,1,1,None
+SES-10200,Android App,Debit Card,1546.12,1,1,0,0,None
+SES-10201,Desktop Web,UPI,2387.64,1,1,1,1,None
+SES-10202,Android App,UPI,4657.71,1,1,0,0,None
+SES-10203,Android App,NetBanking,3946.53,1,0,0,0,None
+SES-10204,Android App,Credit Card,6153.92,1,1,0,0,None
+SES-10205,Android App,UPI,792.41,1,1,1,0,Unexpected Shipping Fee
+SES-10206,Mobile Web,UPI,7253.21,1,0,0,0,None
+SES-10207,Mobile Web,Credit Card,7446.04,1,1,1,0,Payment Gateway Timeout
+SES-10208,Android App,UPI,955.75,1,1,1,1,None
+SES-10209,iOS App,COD,813.79,1,1,0,0,None
+SES-10210,Android App,UPI,7970.93,1,1,0,0,None
+SES-10211,Android App,Credit Card,831.62,1,0,0,0,None
+SES-10212,Android App,COD,8220.91,1,1,0,0,None
+SES-10213,Android App,COD,5612.6,1,1,1,1,None
+SES-10214,Mobile Web,UPI,4624.28,1,1,1,1,None
+SES-10215,iOS App,Debit Card,1616.35,1,1,1,1,None
+SES-10216,Android App,UPI,6137.15,1,1,1,0,Payment Gateway Timeout
+SES-10217,Mobile Web,COD,1250.3,1,1,0,0,None
+SES-10218,Mobile Web,UPI,7445.01,1,0,0,0,None
+SES-10219,Android App,Debit Card,7204.76,1,0,0,0,None
+SES-10220,Desktop Web,Debit Card,4476.9,1,1,1,1,None
+SES-10221,iOS App,COD,5064.45,1,1,0,0,None
+SES-10222,Android App,COD,6015.9,1,1,1,1,None
+SES-10223,Mobile Web,UPI,5770.74,1,1,0,0,None
+SES-10224,Android App,Credit Card,1351.85,1,0,0,0,None
+SES-10225,Mobile Web,COD,884.74,1,1,0,0,None
+SES-10226,Desktop Web,UPI,7465.9,1,1,1,1,None
+SES-10227,Mobile Web,Credit Card,6407.33,1,0,0,0,None
+SES-10228,Desktop Web,UPI,3115.59,1,1,1,1,None
+SES-10229,Mobile Web,NetBanking,6598.04,1,1,1,1,None
+SES-10230,Mobile Web,UPI,7042.49,1,1,1,1,None
+SES-10231,Android App,Credit Card,545.08,1,1,1,0,Payment Gateway Timeout
+SES-10232,Android App,UPI,6063.43,1,1,0,0,None
+SES-10233,Android App,UPI,2399.59,1,0,0,0,None
+SES-10234,Android App,UPI,1084.64,1,1,1,1,None
+SES-10235,iOS App,Debit Card,5455.54,1,1,0,0,None
+SES-10236,iOS App,UPI,7406.53,1,0,0,0,None
+SES-10237,iOS App,UPI,704.16,1,1,0,0,None
+SES-10238,Android App,UPI,3689.98,1,1,1,1,None
+SES-10239,iOS App,Credit Card,5362.85,1,1,1,1,None
+SES-10240,Mobile Web,NetBanking,6244.7,1,0,0,0,None
+SES-10241,Desktop Web,UPI,2065.42,1,1,1,1,None
+SES-10242,Android App,Credit Card,7684.14,1,1,1,1,None
+SES-10243,Android App,COD,981.2,1,1,1,1,None
+SES-10244,Desktop Web,UPI,1310.47,1,1,1,1,None
+SES-10245,iOS App,UPI,2778.27,1,1,1,1,None
+SES-10246,Android App,NetBanking,4812.83,1,1,1,1,None
+SES-10247,Android App,Credit Card,6228.92,1,1,1,0,Payment Gateway Timeout
+SES-10248,Android App,UPI,1948.38,1,1,0,0,None
+SES-10249,Mobile Web,UPI,4700.83,1,0,0,0,None
+SES-10250,Mobile Web,UPI,5038.07,1,1,1,1,None
+SES-10251,Android App,COD,4367.85,1,1,0,0,None
+SES-10252,Mobile Web,Credit Card,846.34,1,0,0,0,None
+SES-10253,iOS App,COD,5312.5,1,1,1,0,Unexpected Shipping Fee
+SES-10254,Desktop Web,UPI,2195.57,1,1,1,1,None
+SES-10255,iOS App,UPI,7218.73,1,0,0,0,None
+SES-10256,Desktop Web,UPI,2394.2,1,1,0,0,None
+SES-10257,Mobile Web,UPI,7080.74,1,0,0,0,None
+SES-10258,Android App,Debit Card,1263.38,1,0,0,0,None
+SES-10259,iOS App,UPI,5192.45,1,1,1,1,None
+SES-10260,Android App,Debit Card,7402.24,1,1,1,1,None
+SES-10261,Android App,UPI,688.13,1,1,0,0,None
+SES-10262,iOS App,Credit Card,4873.13,1,1,1,1,None
+SES-10263,Android App,UPI,5255.41,1,1,0,0,None
+SES-10264,iOS App,COD,1590.65,1,1,0,0,None
+SES-10265,Mobile Web,UPI,3925.03,1,0,0,0,None
+SES-10266,Mobile Web,Debit Card,8430.04,1,0,0,0,None
+SES-10267,Android App,UPI,6294.43,1,1,1,1,None
+SES-10268,iOS App,UPI,1134.43,1,1,1,1,None
+SES-10269,Android App,COD,2034.13,1,0,0,0,None
+SES-10270,Android App,UPI,3339.33,1,0,0,0,None
+SES-10271,Android App,Credit Card,1039.97,1,0,0,0,None
+SES-10272,Mobile Web,UPI,4819.64,1,1,1,1,None
+SES-10273,Desktop Web,Credit Card,4763.2,1,1,1,1,None
+SES-10274,Android App,UPI,5855.57,1,1,0,0,None
+SES-10275,Desktop Web,Debit Card,4961.83,1,1,1,1,None
+SES-10276,Mobile Web,UPI,980.2,1,0,0,0,None
+SES-10277,iOS App,COD,1901.6,1,1,0,0,None
+SES-10278,Mobile Web,UPI,4786.16,1,1,0,0,None
+SES-10279,Android App,UPI,6549.06,1,0,0,0,None
+SES-10280,Android App,Debit Card,6863.4,1,1,1,1,None
+SES-10281,Desktop Web,UPI,3693.93,1,1,0,0,None
+SES-10282,Android App,COD,7915.93,1,0,0,0,None
+SES-10283,iOS App,NetBanking,4667.18,1,0,0,0,None
+SES-10284,iOS App,UPI,6541.92,1,1,1,1,None
+SES-10285,Android App,NetBanking,6756.01,1,0,0,0,None
+SES-10286,Mobile Web,UPI,2924.33,1,1,1,0,Payment Gateway Timeout
+SES-10287,Android App,UPI,7995.6,1,0,0,0,None
+SES-10288,iOS App,UPI,3675.25,1,1,0,0,None
+SES-10289,Android App,Credit Card,4624.95,1,1,0,0,None
+SES-10290,Desktop Web,Credit Card,8437.26,1,1,1,0,Unexpected Shipping Fee
+SES-10291,Android App,COD,1430.05,1,1,1,1,None
+SES-10292,Mobile Web,UPI,7523.67,1,1,1,1,None
+SES-10293,Mobile Web,NetBanking,6820.03,1,1,0,0,None
+SES-10294,Android App,UPI,3723.24,1,1,1,0,Payment Gateway Timeout
+SES-10295,Mobile Web,UPI,8304.86,1,0,0,0,None
+SES-10296,iOS App,NetBanking,1559.33,1,1,0,0,None
+SES-10297,Mobile Web,COD,4395.98,1,1,1,0,OTP Delay / Drop
+SES-10298,Mobile Web,UPI,4520.03,1,0,0,0,None
+SES-10299,Android App,UPI,3439.64,1,1,1,1,None
+SES-10300,Android App,UPI,1580.47,1,1,1,1,None
+SES-10301,Desktop Web,Credit Card,8226.54,1,0,0,0,None
+SES-10302,Android App,UPI,4548.64,1,1,0,0,None
+SES-10303,Android App,UPI,5626.25,1,1,1,1,None
+SES-10304,Android App,Credit Card,5701.26,1,1,1,1,None
+SES-10305,Android App,UPI,6745.87,1,0,0,0,None
+SES-10306,iOS App,UPI,8458.93,1,1,1,0,Payment Gateway Timeout
+SES-10307,Mobile Web,COD,2412.68,1,1,1,1,None
+SES-10308,Android App,UPI,2925.5,1,1,1,1,None
+SES-10309,Android App,Debit Card,997.4,1,1,1,1,None
+SES-10310,iOS App,COD,7011.58,1,1,1,0,OTP Delay / Drop
+SES-10311,Android App,Credit Card,4715.86,1,1,1,1,None
+SES-10312,Android App,UPI,7592.72,1,0,0,0,None
+SES-10313,Android App,UPI,3441.44,1,1,1,1,None
+SES-10314,Android App,NetBanking,6368.65,1,1,0,0,None
+SES-10315,Mobile Web,UPI,3828.65,1,1,1,0,OTP Delay / Drop
+SES-10316,Android App,UPI,6582.08,1,1,0,0,None
+SES-10317,Android App,Credit Card,2220.83,1,1,0,0,None
+SES-10318,Android App,UPI,8306.97,1,0,0,0,None
+SES-10319,Mobile Web,COD,4402.32,1,1,1,1,None
+SES-10320,Android App,Credit Card,4134.47,1,0,0,0,None
+SES-10321,Mobile Web,UPI,4405.42,1,1,0,0,None
+SES-10322,Android App,UPI,6398.59,1,1,1,1,None
+SES-10323,iOS App,UPI,3655.2,1,0,0,0,None
+SES-10324,iOS App,NetBanking,7636.57,1,1,0,0,None
+SES-10325,Desktop Web,NetBanking,3022.57,1,1,1,1,None
+SES-10326,Mobile Web,UPI,2536.62,1,1,1,0,Unexpected Shipping Fee
+SES-10327,Android App,COD,4191.28,1,1,0,0,None
+SES-10328,iOS App,Credit Card,7660.84,1,1,1,0,OTP Delay / Drop
+SES-10329,iOS App,UPI,4646.78,1,1,1,1,None
+SES-10330,Android App,Debit Card,4597.29,1,0,0,0,None
+SES-10331,Mobile Web,UPI,1177.42,1,1,1,1,None
+SES-10332,Mobile Web,UPI,1069.13,1,0,0,0,None
+SES-10333,Android App,COD,6399.8,1,0,0,0,None
+SES-10334,Android App,UPI,3296.98,1,0,0,0,None
+SES-10335,Mobile Web,Debit Card,1980.75,1,1,0,0,None
+SES-10336,Android App,UPI,5782.08,1,1,1,0,Unexpected Shipping Fee
+SES-10337,Android App,UPI,1156.46,1,1,0,0,None
+SES-10338,Desktop Web,UPI,6653.55,1,0,0,0,None
+SES-10339,iOS App,UPI,2144.7,1,1,1,1,None
+SES-10340,Android App,Credit Card,6696.84,1,1,1,1,None
+SES-10341,iOS App,Credit Card,834.65,1,1,1,1,None
+SES-10342,Desktop Web,NetBanking,2841.87,1,1,1,1,None
+SES-10343,Desktop Web,Credit Card,5158.96,1,1,0,0,None
+SES-10344,Mobile Web,NetBanking,5751.49,1,1,0,0,None
+SES-10345,Android App,UPI,7924.6,1,1,0,0,None
+SES-10346,Android App,UPI,3956.05,1,0,0,0,None
+SES-10347,Android App,Credit Card,8044.55,1,1,1,1,None
+SES-10348,Android App,UPI,2078.96,1,0,0,0,None
+SES-10349,Desktop Web,Credit Card,2786.54,1,1,0,0,None
+SES-10350,Mobile Web,COD,7271.96,1,1,1,0,Coupon Error
+SES-10351,Android App,Debit Card,4183.78,1,1,1,0,Unexpected Shipping Fee
+SES-10352,Mobile Web,Debit Card,5748.95,1,1,1,0,Payment Gateway Timeout
+SES-10353,iOS App,COD,7999.04,1,1,1,0,Payment Gateway Timeout
+SES-10354,Android App,UPI,6307.57,1,1,0,0,None
+SES-10355,Mobile Web,UPI,4546.33,1,1,1,1,None
+SES-10356,Mobile Web,Debit Card,4837.44,1,1,1,1,None
+SES-10357,iOS App,Credit Card,2879.69,1,0,0,0,None
+SES-10358,iOS App,Debit Card,7486.46,1,1,1,1,None
+SES-10359,iOS App,Debit Card,1779.73,1,1,1,1,None
+SES-10360,iOS App,UPI,2472.68,1,0,0,0,None
+SES-10361,Mobile Web,COD,1292.52,1,1,0,0,None
+SES-10362,Android App,NetBanking,2131.49,1,1,1,0,OTP Delay / Drop
+SES-10363,Mobile Web,Credit Card,2003.39,1,1,0,0,None
+SES-10364,Android App,NetBanking,4933.37,1,1,1,0,Payment Gateway Timeout
+SES-10365,Mobile Web,UPI,6465.62,1,0,0,0,None
+SES-10366,Android App,COD,3442.89,1,1,1,1,None
+SES-10367,Android App,UPI,2944.14,1,1,0,0,None
+SES-10368,Desktop Web,COD,3445.84,1,0,0,0,None
+SES-10369,Android App,Debit Card,7589.45,1,0,0,0,None
+SES-10370,iOS App,UPI,3800.39,1,0,0,0,None
+SES-10371,Mobile Web,UPI,5456.33,1,1,0,0,None
+SES-10372,Android App,NetBanking,1243.02,1,1,1,1,None
+SES-10373,iOS App,Credit Card,5638.25,1,1,0,0,None
+SES-10374,Android App,Credit Card,4991.44,1,1,1,1,None
+SES-10375,iOS App,Credit Card,5911.42,1,0,0,0,None
+SES-10376,Mobile Web,UPI,7100.22,1,1,1,1,None
+SES-10377,iOS App,UPI,967.47,1,1,0,0,None
+SES-10378,Android App,NetBanking,6161.16,1,0,0,0,None
+SES-10379,Mobile Web,Credit Card,4021.03,1,1,0,0,None
+SES-10380,Android App,UPI,3971.59,1,0,0,0,None
+SES-10381,Android App,UPI,5285.4,1,1,0,0,None
+SES-10382,Mobile Web,COD,7964.84,1,1,1,1,None
+SES-10383,iOS App,UPI,5589.06,1,1,0,0,None
+SES-10384,Mobile Web,UPI,3778.65,1,0,0,0,None
+SES-10385,Mobile Web,UPI,5074.55,1,1,1,0,OTP Delay / Drop
+SES-10386,Android App,UPI,3175.42,1,1,0,0,None
+SES-10387,Android App,UPI,7153.41,1,1,1,1,None
+SES-10388,Android App,Credit Card,2889.1,1,1,1,0,Coupon Error
+SES-10389,Android App,UPI,7481.71,1,1,0,0,None
+SES-10390,Mobile Web,UPI,6920.95,1,0,0,0,None
+SES-10391,iOS App,Credit Card,1566.97,1,0,0,0,None
+SES-10392,Android App,Debit Card,4471.19,1,1,1,1,None
+SES-10393,Android App,Debit Card,6623.87,1,1,1,1,None
+SES-10394,Android App,Credit Card,1581.97,1,1,1,0,Unexpected Shipping Fee
+SES-10395,Mobile Web,COD,1050.73,1,1,1,0,Payment Gateway Timeout
+SES-10396,Android App,UPI,2475.08,1,1,0,0,None
+SES-10397,Desktop Web,UPI,2674.87,1,1,0,0,None
+SES-10398,Mobile Web,UPI,6713.46,1,1,1,1,None
+SES-10399,Android App,Credit Card,767.94,1,1,1,0,Payment Gateway Timeout
+SES-10400,Desktop Web,UPI,4758.9,1,1,1,1,None
+SES-10401,Android App,UPI,7698.57,1,1,1,0,Payment Gateway Timeout
+SES-10402,Mobile Web,COD,4980.91,1,1,0,0,None
+SES-10403,Desktop Web,UPI,3849.77,1,0,0,0,None
+SES-10404,Android App,Debit Card,8350.36,1,1,1,1,None
+SES-10405,Android App,Credit Card,2083.98,1,1,1,1,None
+SES-10406,iOS App,UPI,8276.01,1,1,1,1,None
+SES-10407,iOS App,UPI,1411.88,1,0,0,0,None
+SES-10408,Android App,UPI,2506.98,1,0,0,0,None
+SES-10409,Mobile Web,Credit Card,4686.65,1,0,0,0,None
+SES-10410,Android App,COD,6282.24,1,1,1,1,None
+SES-10411,Android App,Debit Card,4847.85,1,1,1,1,None
+SES-10412,Android App,UPI,4377.05,1,1,1,1,None
+SES-10413,Android App,COD,7299.65,1,1,1,1,None
+SES-10414,Mobile Web,UPI,3793.54,1,0,0,0,None
+SES-10415,Mobile Web,Credit Card,997.25,1,1,1,0,OTP Delay / Drop
+SES-10416,Mobile Web,UPI,914.7,1,1,0,0,None
+SES-10417,Mobile Web,UPI,2568.23,1,1,1,1,None
+SES-10418,Android App,UPI,6553.77,1,1,1,0,OTP Delay / Drop
+SES-10419,Android App,COD,7536.53,1,1,0,0,None
+SES-10420,Desktop Web,UPI,4109.37,1,1,1,1,None
+SES-10421,Desktop Web,Debit Card,716.37,1,1,0,0,None
+SES-10422,Android App,UPI,7773.67,1,1,1,1,None
+SES-10423,iOS App,Credit Card,1342.9,1,0,0,0,None
+SES-10424,Mobile Web,NetBanking,3542.74,1,1,0,0,None
+SES-10425,Mobile Web,COD,2129.34,1,0,0,0,None
+SES-10426,iOS App,UPI,6842.63,1,0,0,0,None
+SES-10427,iOS App,Credit Card,6883.11,1,1,1,1,None
+SES-10428,Android App,COD,4763.76,1,1,1,1,None
+SES-10429,Android App,Debit Card,6845.88,1,1,0,0,None
+SES-10430,Android App,COD,7749.05,1,1,0,0,None
+SES-10431,Android App,COD,1624.83,1,0,0,0,None
+SES-10432,Android App,UPI,7651.81,1,1,0,0,None
+SES-10433,Mobile Web,UPI,4022.03,1,1,0,0,None
+SES-10434,iOS App,UPI,7559.21,1,1,0,0,None
+SES-10435,Mobile Web,Credit Card,8236.98,1,0,0,0,None
+SES-10436,Android App,COD,5843.03,1,1,1,1,None
+SES-10437,iOS App,UPI,7555.3,1,1,1,1,None
+SES-10438,Android App,UPI,599.87,1,1,1,1,None
+SES-10439,iOS App,Credit Card,6254.55,1,1,1,1,None
+SES-10440,Desktop Web,UPI,6351.7,1,1,0,0,None
+SES-10441,Android App,COD,7052.33,1,0,0,0,None
+SES-10442,iOS App,Debit Card,3014.12,1,1,1,0,OTP Delay / Drop
+SES-10443,Mobile Web,UPI,3361.74,1,1,1,1,None
+SES-10444,iOS App,NetBanking,3181.0,1,0,0,0,None
+SES-10445,Android App,Debit Card,7107.65,1,1,1,0,Payment Gateway Timeout
+SES-10446,Android App,UPI,3282.88,1,1,0,0,None
+SES-10447,iOS App,Debit Card,5708.83,1,0,0,0,None
+SES-10448,iOS App,UPI,7231.42,1,0,0,0,None
+SES-10449,iOS App,COD,5572.77,1,1,1,0,Payment Gateway Timeout
+SES-10450,Mobile Web,UPI,5990.3,1,0,0,0,None
+SES-10451,Android App,UPI,7345.75,1,0,0,0,None
+SES-10452,Android App,NetBanking,2733.49,1,1,0,0,None
+SES-10453,iOS App,Debit Card,4600.75,1,1,1,1,None
+SES-10454,Android App,UPI,764.55,1,1,0,0,None
+SES-10455,Android App,Credit Card,8006.38,1,1,1,1,None
+SES-10456,Desktop Web,Debit Card,6807.37,1,0,0,0,None
+SES-10457,Mobile Web,UPI,7757.47,1,1,1,1,None
+SES-10458,Mobile Web,Credit Card,1387.03,1,1,1,1,None
+SES-10459,Android App,UPI,7416.37,1,0,0,0,None
+SES-10460,iOS App,UPI,8314.38,1,0,0,0,None
+SES-10461,Android App,UPI,835.24,1,0,0,0,None
+SES-10462,Mobile Web,COD,2739.58,1,0,0,0,None
+SES-10463,Mobile Web,UPI,7786.07,1,1,1,1,None
+SES-10464,Mobile Web,NetBanking,643.07,1,1,1,0,Coupon Error
+SES-10465,Mobile Web,UPI,7134.99,1,1,1,0,Payment Gateway Timeout
+SES-10466,Desktop Web,UPI,6129.19,1,1,1,1,None
+SES-10467,iOS App,UPI,2434.39,1,0,0,0,None
+SES-10468,Android App,UPI,2909.42,1,1,1,1,None
+SES-10469,iOS App,UPI,2898.65,1,1,1,1,None
+SES-10470,Mobile Web,UPI,7723.06,1,1,0,0,None
+SES-10471,Mobile Web,Debit Card,5245.37,1,1,1,1,None
+SES-10472,Desktop Web,UPI,1130.83,1,0,0,0,None
+SES-10473,Android App,NetBanking,776.4,1,1,1,0,OTP Delay / Drop
+SES-10474,Desktop Web,COD,4671.09,1,0,0,0,None
+SES-10475,Android App,NetBanking,5291.43,1,1,1,0,Payment Gateway Timeout
+SES-10476,Android App,COD,5853.27,1,1,0,0,None
+SES-10477,Mobile Web,COD,5073.75,1,0,0,0,None
+SES-10478,iOS App,UPI,3034.89,1,0,0,0,None
+SES-10479,Android App,Debit Card,5314.99,1,0,0,0,None
+SES-10480,Desktop Web,UPI,5356.32,1,1,1,1,None
+SES-10481,iOS App,Credit Card,6120.77,1,1,1,1,None
+SES-10482,Android App,Credit Card,1332.9,1,1,1,1,None
+SES-10483,Android App,Credit Card,5717.45,1,0,0,0,None
+SES-10484,Desktop Web,Credit Card,6448.49,1,0,0,0,None
+SES-10485,iOS App,Credit Card,1066.53,1,1,1,1,None
+SES-10486,Android App,UPI,4279.42,1,1,1,1,None
+SES-10487,Android App,UPI,2713.79,1,1,1,1,None
+SES-10488,Desktop Web,UPI,4355.81,1,0,0,0,None
+SES-10489,Android App,Credit Card,2744.75,1,1,0,0,None
+SES-10490,Android App,Credit Card,543.05,1,1,1,0,Payment Gateway Timeout
+SES-10491,Android App,UPI,1363.31,1,1,0,0,None
+SES-10492,Android App,NetBanking,5075.96,1,0,0,0,None
+SES-10493,iOS App,UPI,7953.96,1,1,1,0,Payment Gateway Timeout
+SES-10494,Android App,Credit Card,1409.82,1,1,1,0,Payment Gateway Timeout
+SES-10495,iOS App,COD,4447.87,1,1,1,1,None
+SES-10496,Mobile Web,COD,1551.04,1,0,0,0,None
+SES-10497,Android App,UPI,3874.05,1,0,0,0,None
+SES-10498,Android App,COD,6211.98,1,0,0,0,None
+SES-10499,iOS App,UPI,7090.15,1,1,0,0,None
+SES-10500,Desktop Web,NetBanking,511.52,1,1,0,0,None
+SES-10501,iOS App,UPI,2560.12,1,0,0,0,None
+SES-10502,Android App,Credit Card,5992.41,1,1,1,0,Payment Gateway Timeout
+SES-10503,Android App,UPI,3451.79,1,0,0,0,None
+SES-10504,Android App,UPI,6509.18,1,0,0,0,None
+SES-10505,Android App,UPI,3337.53,1,0,0,0,None
+SES-10506,Desktop Web,Debit Card,5929.04,1,1,1,1,None
+SES-10507,Android App,Credit Card,580.06,1,0,0,0,None
+SES-10508,iOS App,COD,5400.2,1,1,0,0,None
+SES-10509,Desktop Web,Debit Card,1463.59,1,1,1,0,Coupon Error
+SES-10510,Android App,Credit Card,1636.24,1,0,0,0,None
+SES-10511,Android App,UPI,2859.62,1,1,1,1,None
+SES-10512,iOS App,Credit Card,848.96,1,1,1,1,None
+SES-10513,Android App,Credit Card,3244.68,1,1,0,0,None
+SES-10514,Mobile Web,Credit Card,7264.68,1,0,0,0,None
+SES-10515,Mobile Web,UPI,5883.41,1,1,0,0,None
+SES-10516,Android App,UPI,6811.67,1,1,0,0,None
+SES-10517,Android App,NetBanking,7079.2,1,0,0,0,None
+SES-10518,Mobile Web,COD,3947.31,1,0,0,0,None
+SES-10519,Android App,Credit Card,3468.75,1,1,1,0,OTP Delay / Drop
+SES-10520,Mobile Web,Debit Card,3495.8,1,1,1,1,None
+SES-10521,Android App,UPI,1639.9,1,1,1,1,None
+SES-10522,Desktop Web,UPI,1734.83,1,0,0,0,None
+SES-10523,Android App,Credit Card,5594.86,1,0,0,0,None
+SES-10524,Android App,UPI,3776.44,1,1,0,0,None
+SES-10525,Android App,Debit Card,5345.84,1,1,1,0,Payment Gateway Timeout
+SES-10526,Android App,COD,4131.47,1,1,1,1,None
+SES-10527,Mobile Web,UPI,4384.2,1,1,1,0,Payment Gateway Timeout
+SES-10528,iOS App,COD,3573.04,1,0,0,0,None
+SES-10529,Android App,UPI,3603.28,1,1,1,0,Payment Gateway Timeout
+SES-10530,Android App,Debit Card,4167.64,1,1,1,1,None
+SES-10531,Android App,COD,1428.23,1,1,1,1,None
+SES-10532,Desktop Web,UPI,7607.12,1,1,1,1,None
+SES-10533,iOS App,NetBanking,8372.09,1,1,1,0,Payment Gateway Timeout
+SES-10534,Desktop Web,UPI,3583.48,1,1,1,1,None
+SES-10535,Android App,Credit Card,1732.31,1,0,0,0,None
+SES-10536,iOS App,Credit Card,6594.98,1,1,1,0,Unexpected Shipping Fee
+SES-10537,Android App,UPI,2573.94,1,1,1,1,None
+SES-10538,Android App,UPI,3238.93,1,1,1,1,None
+SES-10539,Android App,COD,4961.23,1,1,1,1,None
+SES-10540,Android App,Credit Card,1612.71,1,1,1,1,None
+SES-10541,Android App,Credit Card,4410.67,1,1,1,0,Payment Gateway Timeout
+SES-10542,Desktop Web,COD,5486.87,1,1,1,1,None
+SES-10543,iOS App,Credit Card,2109.7,1,1,1,0,Payment Gateway Timeout
+SES-10544,Android App,UPI,4843.74,1,0,0,0,None
+SES-10545,Android App,COD,7775.55,1,1,0,0,None
+SES-10546,Mobile Web,Credit Card,7459.62,1,0,0,0,None
+SES-10547,Android App,NetBanking,1497.69,1,1,1,1,None
+SES-10548,Mobile Web,UPI,7516.6,1,1,0,0,None
+SES-10549,Desktop Web,UPI,4200.87,1,0,0,0,None
+SES-10550,Desktop Web,Credit Card,7408.24,1,1,0,0,None
+SES-10551,iOS App,UPI,2785.55,1,1,1,1,None
+SES-10552,Android App,Debit Card,3591.71,1,0,0,0,None
+SES-10553,iOS App,Credit Card,5117.81,1,0,0,0,None
+SES-10554,Mobile Web,COD,3760.08,1,1,1,0,Unexpected Shipping Fee
+SES-10555,Mobile Web,Credit Card,8148.33,1,1,0,0,None
+SES-10556,Android App,UPI,7331.55,1,0,0,0,None
+SES-10557,Android App,NetBanking,7644.61,1,1,1,0,Payment Gateway Timeout
+SES-10558,Desktop Web,UPI,4582.97,1,1,1,1,None
+SES-10559,iOS App,COD,651.95,1,1,1,1,None
+SES-10560,iOS App,Debit Card,6281.38,1,0,0,0,None
+SES-10561,Mobile Web,UPI,2894.46,1,1,1,1,None
+SES-10562,Android App,NetBanking,2729.36,1,1,1,1,None
+SES-10563,Android App,COD,569.92,1,1,0,0,None
+SES-10564,Desktop Web,Debit Card,7127.58,1,1,1,1,None
+SES-10565,Android App,UPI,6402.69,1,0,0,0,None
+SES-10566,Mobile Web,Debit Card,1641.95,1,0,0,0,None
+SES-10567,Mobile Web,Debit Card,5767.98,1,1,0,0,None
+SES-10568,Mobile Web,NetBanking,5408.45,1,1,0,0,None
+SES-10569,Android App,Credit Card,1120.27,1,0,0,0,None
+SES-10570,Android App,UPI,1027.14,1,1,1,1,None
+SES-10571,Android App,UPI,6965.69,1,1,1,1,None
+SES-10572,Desktop Web,UPI,8140.88,1,1,0,0,None
+SES-10573,iOS App,UPI,1113.97,1,1,1,1,None
+SES-10574,iOS App,NetBanking,6156.4,1,0,0,0,None
+SES-10575,Android App,UPI,3722.39,1,1,1,1,None
+SES-10576,Android App,UPI,2747.32,1,0,0,0,None
+SES-10577,Mobile Web,COD,3740.23,1,0,0,0,None
+SES-10578,Desktop Web,UPI,4310.97,1,1,1,1,None
+SES-10579,Android App,Credit Card,8331.83,1,1,1,1,None
+SES-10580,iOS App,UPI,5682.19,1,1,1,1,None
+SES-10581,Android App,COD,4524.17,1,1,0,0,None
+SES-10582,Android App,Credit Card,5497.9,1,0,0,0,None
+SES-10583,Android App,Debit Card,2434.7,1,0,0,0,None
+SES-10584,Mobile Web,NetBanking,6931.47,1,1,1,0,OTP Delay / Drop
+SES-10585,iOS App,UPI,6702.54,1,0,0,0,None
+SES-10586,Android App,Credit Card,2773.48,1,0,0,0,None
+SES-10587,Android App,Credit Card,933.71,1,1,0,0,None
+SES-10588,Mobile Web,UPI,500.08,1,1,1,1,None
+SES-10589,iOS App,UPI,2708.63,1,1,0,0,None
+SES-10590,Mobile Web,UPI,7214.55,1,1,0,0,None
+SES-10591,Android App,UPI,6426.97,1,1,1,1,None
+SES-10592,Android App,UPI,3381.23,1,0,0,0,None
+SES-10593,Android App,NetBanking,3006.1,1,1,0,0,None
+SES-10594,Mobile Web,COD,3969.97,1,1,1,1,None
+SES-10595,Desktop Web,UPI,8212.59,1,1,1,0,Payment Gateway Timeout
+SES-10596,Mobile Web,Credit Card,3600.58,1,0,0,0,None
+SES-10597,iOS App,Debit Card,533.91,1,1,0,0,None
+SES-10598,Android App,Debit Card,5830.75,1,1,1,0,Coupon Error
+SES-10599,Mobile Web,COD,6120.03,1,1,0,0,None
+SES-10600,Android App,UPI,6754.37,1,1,0,0,None
+SES-10601,iOS App,UPI,3379.76,1,0,0,0,None
+SES-10602,Desktop Web,Credit Card,3961.27,1,1,1,0,OTP Delay / Drop
+SES-10603,Android App,UPI,3457.88,1,1,0,0,None
+SES-10604,Android App,Debit Card,3831.45,1,1,0,0,None
+SES-10605,Mobile Web,COD,2195.16,1,0,0,0,None
+SES-10606,Mobile Web,UPI,7541.13,1,1,0,0,None
+SES-10607,Android App,Debit Card,5361.62,1,1,1,1,None
+SES-10608,Android App,UPI,5712.77,1,1,0,0,None
+SES-10609,Mobile Web,UPI,5658.31,1,1,0,0,None
+SES-10610,Android App,Debit Card,2092.92,1,1,1,1,None
+SES-10611,Desktop Web,UPI,3441.66,1,1,1,1,None
+SES-10612,Android App,UPI,4626.41,1,1,0,0,None
+SES-10613,Android App,NetBanking,616.56,1,1,0,0,None
+SES-10614,Android App,UPI,653.64,1,0,0,0,None
+SES-10615,Android App,UPI,4442.41,1,1,1,1,None
+SES-10616,Android App,Credit Card,5260.65,1,1,1,1,None
+SES-10617,Android App,UPI,8207.96,1,0,0,0,None
+SES-10618,iOS App,Debit Card,2994.22,1,1,1,1,None
+SES-10619,Mobile Web,Debit Card,4669.89,1,1,1,0,Coupon Error
+SES-10620,Android App,UPI,6661.04,1,1,1,1,None
+SES-10621,Mobile Web,UPI,2623.93,1,1,0,0,None
+SES-10622,Android App,UPI,6684.91,1,0,0,0,None
+SES-10623,iOS App,UPI,3473.29,1,1,1,1,None
+SES-10624,Android App,UPI,5671.32,1,0,0,0,None
+SES-10625,Desktop Web,NetBanking,687.78,1,1,0,0,None
+SES-10626,Desktop Web,NetBanking,6742.79,1,1,0,0,None
+SES-10627,iOS App,UPI,2922.63,1,1,1,1,None
+SES-10628,Android App,UPI,2472.08,1,1,0,0,None
+SES-10629,iOS App,Debit Card,4289.95,1,0,0,0,None
+SES-10630,Android App,COD,8041.74,1,1,0,0,None
+SES-10631,Mobile Web,COD,4855.4,1,1,0,0,None
+SES-10632,Desktop Web,UPI,3424.81,1,1,1,1,None
+SES-10633,Android App,UPI,1625.56,1,1,1,1,None
+SES-10634,iOS App,NetBanking,5125.97,1,1,1,1,None
+SES-10635,Android App,NetBanking,5587.27,1,1,1,1,None
+SES-10636,Android App,Debit Card,2578.5,1,1,1,1,None
+SES-10637,Android App,COD,2823.33,1,0,0,0,None
+SES-10638,iOS App,COD,6161.48,1,1,0,0,None
+SES-10639,Android App,UPI,561.74,1,1,0,0,None
+SES-10640,iOS App,UPI,1573.33,1,0,0,0,None
+SES-10641,Desktop Web,Credit Card,2434.39,1,1,1,1,None
+SES-10642,iOS App,Debit Card,1108.99,1,1,1,0,Payment Gateway Timeout
+SES-10643,Mobile Web,UPI,4872.16,1,1,1,1,None
+SES-10644,Android App,UPI,1825.16,1,1,1,0,OTP Delay / Drop
+SES-10645,Android App,UPI,7249.04,1,1,1,0,Coupon Error
+SES-10646,Mobile Web,COD,2435.06,1,1,0,0,None
+SES-10647,Desktop Web,UPI,8111.39,1,0,0,0,None
+SES-10648,Desktop Web,Debit Card,8349.13,1,1,1,1,None
+SES-10649,iOS App,UPI,3995.4,1,1,1,1,None
+SES-10650,iOS App,UPI,5478.37,1,1,1,1,None
+SES-10651,Desktop Web,UPI,6840.55,1,1,0,0,None
+SES-10652,Desktop Web,COD,8181.04,1,1,1,1,None
+SES-10653,iOS App,COD,6558.24,1,1,0,0,None
+SES-10654,Android App,UPI,6246.37,1,0,0,0,None
+SES-10655,Android App,Credit Card,5832.47,1,1,1,1,None
+SES-10656,Android App,Credit Card,6672.79,1,0,0,0,None
+SES-10657,iOS App,UPI,571.32,1,0,0,0,None
+SES-10658,Android App,COD,2328.64,1,1,1,0,OTP Delay / Drop
+SES-10659,Android App,UPI,7284.18,1,1,0,0,None
+SES-10660,Mobile Web,UPI,3929.04,1,1,0,0,None
+SES-10661,Android App,Credit Card,5799.13,1,0,0,0,None
+SES-10662,Android App,UPI,3682.09,1,1,1,1,None
+SES-10663,Desktop Web,COD,858.34,1,1,0,0,None
+SES-10664,Mobile Web,UPI,3639.06,1,1,0,0,None
+SES-10665,Mobile Web,COD,8107.38,1,1,0,0,None
+SES-10666,iOS App,UPI,6800.18,1,1,0,0,None
+SES-10667,Android App,Credit Card,3367.99,1,0,0,0,None
+SES-10668,Mobile Web,UPI,2031.94,1,1,0,0,None
+SES-10669,Desktop Web,UPI,4547.17,1,1,1,1,None
+SES-10670,Android App,UPI,787.19,1,1,0,0,None
+SES-10671,Android App,COD,2759.11,1,0,0,0,None
+SES-10672,Desktop Web,Credit Card,3992.35,1,1,0,0,None
+SES-10673,iOS App,Credit Card,6569.97,1,1,1,0,Payment Gateway Timeout
+SES-10674,Android App,COD,8071.6,1,1,1,0,Unexpected Shipping Fee
+SES-10675,Android App,NetBanking,4310.16,1,1,1,0,OTP Delay / Drop
+SES-10676,Android App,Credit Card,1988.27,1,1,1,0,Payment Gateway Timeout
+SES-10677,Mobile Web,UPI,1068.34,1,0,0,0,None
+SES-10678,Android App,COD,4554.87,1,1,1,1,None
+SES-10679,Android App,NetBanking,7186.44,1,1,0,0,None
+SES-10680,Android App,Debit Card,6668.75,1,1,1,1,None
+SES-10681,Mobile Web,UPI,7506.94,1,1,1,1,None
+SES-10682,iOS App,UPI,3901.25,1,1,1,1,None
+SES-10683,Android App,UPI,6624.14,1,1,1,1,None
+SES-10684,Android App,UPI,4679.6,1,1,1,1,None
+SES-10685,Android App,COD,2308.23,1,1,1,1,None
+SES-10686,Android App,UPI,2342.56,1,1,1,0,Payment Gateway Timeout
+SES-10687,Mobile Web,COD,2293.57,1,0,0,0,None
+SES-10688,Mobile Web,Debit Card,7287.25,1,0,0,0,None
+SES-10689,Android App,UPI,3101.69,1,1,1,1,None
+SES-10690,Mobile Web,NetBanking,1952.09,1,1,1,0,Payment Gateway Timeout
+SES-10691,Desktop Web,NetBanking,8378.85,1,1,1,1,None
+SES-10692,Mobile Web,UPI,5224.69,1,1,1,1,None
+SES-10693,Mobile Web,UPI,4855.52,1,1,1,1,None
+SES-10694,Mobile Web,UPI,6744.83,1,1,1,1,None
+SES-10695,iOS App,COD,838.42,1,0,0,0,None
+SES-10696,Android App,Credit Card,2871.78,1,1,1,0,Unexpected Shipping Fee
+SES-10697,Mobile Web,UPI,4610.35,1,1,1,0,OTP Delay / Drop
+SES-10698,Android App,COD,7119.88,1,0,0,0,None
+SES-10699,Mobile Web,Debit Card,4193.19,1,0,0,0,None
+SES-10700,Desktop Web,Debit Card,6331.58,1,1,1,0,Unexpected Shipping Fee
+SES-10701,Android App,NetBanking,2061.12,1,1,1,0,Payment Gateway Timeout
+SES-10702,Android App,COD,7352.15,1,0,0,0,None
+SES-10703,Mobile Web,Debit Card,4996.14,1,1,1,0,Coupon Error
+SES-10704,iOS App,UPI,1803.45,1,1,1,1,None
+SES-10705,Mobile Web,Debit Card,3574.22,1,0,0,0,None
+SES-10706,Android App,NetBanking,590.36,1,1,1,1,None
+SES-10707,Mobile Web,COD,4000.73,1,1,1,1,None
+SES-10708,Android App,Debit Card,7036.84,1,1,0,0,None
+SES-10709,iOS App,COD,912.4,1,1,1,1,None
+SES-10710,iOS App,Debit Card,7400.99,1,1,1,0,Payment Gateway Timeout
+SES-10711,Mobile Web,Credit Card,3671.83,1,0,0,0,None
+SES-10712,Android App,COD,1757.34,1,1,1,1,None
+SES-10713,Android App,UPI,7471.18,1,1,1,1,None
+SES-10714,Mobile Web,NetBanking,2502.99,1,0,0,0,None
+SES-10715,iOS App,Credit Card,7162.48,1,1,0,0,None
+SES-10716,Desktop Web,UPI,5891.83,1,1,1,1,None
+SES-10717,Android App,Credit Card,2800.35,1,0,0,0,None
+SES-10718,Android App,UPI,5469.96,1,0,0,0,None
+SES-10719,Android App,Debit Card,3735.62,1,1,0,0,None
+SES-10720,Android App,NetBanking,2785.35,1,1,0,0,None
+SES-10721,Android App,Debit Card,3158.98,1,1,1,1,None
+SES-10722,Android App,UPI,8055.53,1,0,0,0,None
+SES-10723,iOS App,Debit Card,5557.89,1,1,1,0,Payment Gateway Timeout
+SES-10724,Android App,Debit Card,1310.08,1,1,0,0,None
+SES-10725,Android App,UPI,3955.58,1,1,1,1,None
+SES-10726,Desktop Web,UPI,4649.13,1,0,0,0,None
+SES-10727,Android App,COD,1405.54,1,1,1,1,None
+SES-10728,Android App,Debit Card,6136.14,1,1,1,1,None
+SES-10729,Android App,UPI,3680.3,1,1,1,1,None
+SES-10730,Android App,UPI,4363.8,1,0,0,0,None
+SES-10731,Android App,UPI,5753.71,1,1,1,1,None
+SES-10732,Desktop Web,Credit Card,1114.91,1,1,1,1,None
+SES-10733,Android App,COD,2877.62,1,0,0,0,None
+SES-10734,Android App,Credit Card,5488.81,1,1,0,0,None
+SES-10735,iOS App,UPI,619.9,1,1,1,1,None
+SES-10736,Desktop Web,UPI,5907.89,1,1,1,1,None
+SES-10737,Mobile Web,Credit Card,3002.57,1,1,1,1,None
+SES-10738,Android App,Credit Card,7428.63,1,1,0,0,None
+SES-10739,Desktop Web,UPI,1737.78,1,1,0,0,None
+SES-10740,Desktop Web,Debit Card,7563.83,1,1,1,1,None
+SES-10741,Android App,Credit Card,6108.82,1,0,0,0,None
+SES-10742,Mobile Web,UPI,622.17,1,1,1,1,None
+SES-10743,iOS App,UPI,4101.48,1,1,0,0,None
+SES-10744,Desktop Web,UPI,7218.25,1,1,1,1,None
+SES-10745,Android App,Debit Card,8316.03,1,1,1,1,None
+SES-10746,Android App,UPI,3968.1,1,1,1,1,None
+SES-10747,Android App,Debit Card,7816.3,1,1,1,1,None
+SES-10748,Android App,UPI,3974.66,1,0,0,0,None
+SES-10749,Mobile Web,UPI,5215.22,1,0,0,0,None
+SES-10750,iOS App,Credit Card,2435.42,1,1,1,0,Unexpected Shipping Fee
+SES-10751,Android App,UPI,7519.64,1,1,1,1,None
+SES-10752,Mobile Web,UPI,2486.26,1,1,0,0,None
+SES-10753,Android App,UPI,2479.73,1,1,1,1,None
+SES-10754,Android App,UPI,6361.6,1,1,1,1,None
+SES-10755,iOS App,Debit Card,1148.27,1,0,0,0,None
+SES-10756,Desktop Web,NetBanking,6940.53,1,1,0,0,None
+SES-10757,Mobile Web,COD,4853.58,1,0,0,0,None
+SES-10758,Android App,Credit Card,6442.79,1,1,1,1,None
+SES-10759,Mobile Web,Credit Card,1046.74,1,1,1,1,None
+SES-10760,Android App,COD,5175.18,1,1,1,1,None
+SES-10761,iOS App,UPI,3446.96,1,1,1,1,None
+SES-10762,Desktop Web,Debit Card,6798.88,1,1,1,0,OTP Delay / Drop
+SES-10763,iOS App,UPI,6143.39,1,1,0,0,None
+SES-10764,Android App,UPI,5694.23,1,1,1,1,None
+SES-10765,Desktop Web,UPI,7097.77,1,1,1,1,None
+SES-10766,Android App,UPI,674.33,1,1,1,1,None
+SES-10767,Android App,Credit Card,948.46,1,0,0,0,None
+SES-10768,iOS App,COD,1342.25,1,0,0,0,None
+SES-10769,Mobile Web,UPI,5741.04,1,1,1,1,None
+SES-10770,Android App,UPI,1782.86,1,1,0,0,None
+SES-10771,Android App,UPI,5813.42,1,1,1,1,None
+SES-10772,Desktop Web,NetBanking,5980.76,1,0,0,0,None
+SES-10773,Android App,UPI,2977.76,1,1,1,1,None
+SES-10774,Android App,Credit Card,4783.97,1,1,1,0,Payment Gateway Timeout
+SES-10775,Android App,NetBanking,6814.13,1,0,0,0,None
+SES-10776,Android App,COD,8122.47,1,1,1,1,None
+SES-10777,Android App,UPI,4544.58,1,0,0,0,None
+SES-10778,Desktop Web,COD,1319.65,1,0,0,0,None
+SES-10779,Android App,Credit Card,4524.56,1,1,0,0,None
+SES-10780,Android App,COD,5915.2,1,1,1,1,None
+SES-10781,Mobile Web,COD,6486.6,1,0,0,0,None
+SES-10782,Android App,Credit Card,1782.08,1,1,0,0,None
+SES-10783,Mobile Web,UPI,6051.29,1,0,0,0,None
+SES-10784,Android App,UPI,1821.44,1,1,0,0,None
+SES-10785,Android App,Debit Card,6358.94,1,1,1,0,OTP Delay / Drop
+SES-10786,Android App,UPI,652.05,1,1,0,0,None
+SES-10787,Android App,COD,2431.54,1,0,0,0,None
+SES-10788,Android App,UPI,2278.11,1,1,0,0,None
+SES-10789,iOS App,Credit Card,2462.06,1,1,1,0,Payment Gateway Timeout
+SES-10790,Android App,UPI,2255.65,1,1,1,1,None
+SES-10791,Desktop Web,Credit Card,4954.58,1,1,1,1,None
+SES-10792,Android App,UPI,4826.78,1,1,1,1,None
+SES-10793,Mobile Web,Debit Card,1872.72,1,1,1,1,None
+SES-10794,iOS App,UPI,7464.09,1,1,0,0,None
+SES-10795,iOS App,Credit Card,1422.27,1,0,0,0,None
+SES-10796,iOS App,UPI,3196.99,1,1,1,0,Payment Gateway Timeout
+SES-10797,Mobile Web,UPI,3634.27,1,0,0,0,None
+SES-10798,Desktop Web,UPI,4561.95,1,0,0,0,None
+SES-10799,Android App,UPI,6841.86,1,0,0,0,None
+SES-10800,Android App,UPI,4984.99,1,0,0,0,None
+SES-10801,iOS App,Debit Card,2525.43,1,1,0,0,None
+SES-10802,Android App,Debit Card,4784.79,1,1,1,0,Unexpected Shipping Fee
+SES-10803,Mobile Web,NetBanking,4380.24,1,0,0,0,None
+SES-10804,Android App,NetBanking,4109.8,1,1,1,1,None
+SES-10805,Android App,COD,7560.36,1,1,1,1,None
+SES-10806,iOS App,UPI,3602.0,1,1,0,0,None
+SES-10807,Mobile Web,COD,2126.99,1,1,1,1,None
+SES-10808,Android App,COD,3614.63,1,0,0,0,None
+SES-10809,iOS App,COD,1031.58,1,1,0,0,None
+SES-10810,iOS App,UPI,3503.13,1,1,1,1,None
+SES-10811,Mobile Web,UPI,8477.46,1,0,0,0,None
+SES-10812,iOS App,UPI,2260.11,1,0,0,0,None
+SES-10813,Android App,UPI,1048.78,1,1,1,1,None
+SES-10814,Android App,UPI,6281.62,1,1,1,1,None
+SES-10815,Mobile Web,Debit Card,565.92,1,1,1,1,None
+SES-10816,Android App,Debit Card,4371.4,1,0,0,0,None
+SES-10817,Android App,NetBanking,6682.25,1,1,1,1,None
+SES-10818,iOS App,UPI,6631.89,1,1,1,1,None
+SES-10819,iOS App,NetBanking,6513.73,1,1,1,0,Unexpected Shipping Fee
+SES-10820,iOS App,UPI,5868.93,1,1,1,0,OTP Delay / Drop
+SES-10821,Mobile Web,UPI,2059.0,1,1,1,0,Unexpected Shipping Fee
+SES-10822,Mobile Web,COD,6569.48,1,1,1,1,None
+SES-10823,iOS App,Credit Card,7612.91,1,1,1,0,OTP Delay / Drop
+SES-10824,iOS App,UPI,4290.84,1,1,1,1,None
+SES-10825,Mobile Web,UPI,2117.24,1,1,0,0,None
+SES-10826,Android App,UPI,2218.52,1,1,1,1,None
+SES-10827,Android App,COD,4555.98,1,0,0,0,None
+SES-10828,Android App,UPI,6068.95,1,1,1,1,None
+SES-10829,Android App,NetBanking,5775.75,1,1,1,1,None
+SES-10830,Mobile Web,UPI,6038.56,1,1,1,1,None
+SES-10831,Android App,COD,5590.63,1,0,0,0,None
+SES-10832,Android App,UPI,2026.6,1,0,0,0,None
+SES-10833,Mobile Web,UPI,5262.02,1,0,0,0,None
+SES-10834,Android App,Debit Card,7019.33,1,1,1,1,None
+SES-10835,Mobile Web,Debit Card,2000.97,1,1,0,0,None
+SES-10836,Android App,Debit Card,3446.15,1,1,1,0,OTP Delay / Drop
+SES-10837,Android App,UPI,768.44,1,1,0,0,None
+SES-10838,Desktop Web,UPI,4958.25,1,0,0,0,None
+SES-10839,Android App,Debit Card,3083.54,1,1,0,0,None
+SES-10840,Desktop Web,COD,3101.65,1,1,1,1,None
+SES-10841,Desktop Web,COD,7103.15,1,1,1,1,None
+SES-10842,Mobile Web,UPI,5113.2,1,1,1,1,None
+SES-10843,Android App,UPI,8491.14,1,0,0,0,None
+SES-10844,Android App,Debit Card,6953.13,1,0,0,0,None
+SES-10845,Mobile Web,COD,2431.21,1,1,1,0,Payment Gateway Timeout
+SES-10846,Android App,UPI,678.43,1,1,1,0,Payment Gateway Timeout
+SES-10847,Mobile Web,Credit Card,3001.54,1,1,1,1,None
+SES-10848,Mobile Web,UPI,614.07,1,1,1,1,None
+SES-10849,Mobile Web,Credit Card,6598.18,1,1,0,0,None
+SES-10850,Android App,NetBanking,5455.83,1,0,0,0,None
+SES-10851,iOS App,Credit Card,7415.33,1,0,0,0,None
+SES-10852,iOS App,Credit Card,8425.42,1,1,1,1,None
+SES-10853,Mobile Web,UPI,6158.88,1,1,0,0,None
+SES-10854,Android App,UPI,5274.41,1,1,1,0,Coupon Error
+SES-10855,Desktop Web,UPI,4720.95,1,0,0,0,None
+SES-10856,Android App,COD,8348.92,1,1,1,1,None
+SES-10857,iOS App,NetBanking,6220.52,1,1,1,0,OTP Delay / Drop
+SES-10858,Android App,UPI,5897.97,1,0,0,0,None
+SES-10859,Mobile Web,UPI,8033.48,1,0,0,0,None
+SES-10860,Android App,Credit Card,6026.76,1,1,0,0,None
+SES-10861,Mobile Web,Credit Card,2701.58,1,1,1,0,Payment Gateway Timeout
+SES-10862,iOS App,Credit Card,1934.03,1,0,0,0,None
+SES-10863,Mobile Web,UPI,5841.75,1,0,0,0,None
+SES-10864,Mobile Web,UPI,652.18,1,0,0,0,None
+SES-10865,Mobile Web,Credit Card,6096.82,1,1,1,1,None
+SES-10866,Mobile Web,NetBanking,8187.32,1,1,1,0,OTP Delay / Drop
+SES-10867,iOS App,UPI,1728.68,1,1,1,1,None
+SES-10868,iOS App,UPI,7870.38,1,1,1,1,None
+SES-10869,iOS App,Credit Card,3338.75,1,1,1,1,None
+SES-10870,Android App,UPI,3886.1,1,1,1,1,None
+SES-10871,Android App,Credit Card,7547.67,1,0,0,0,None
+SES-10872,Desktop Web,Credit Card,2189.07,1,1,1,1,None
+SES-10873,Mobile Web,COD,2072.43,1,0,0,0,None
+SES-10874,Mobile Web,UPI,6920.93,1,0,0,0,None
+SES-10875,Desktop Web,UPI,7678.82,1,1,1,1,None
+SES-10876,iOS App,COD,4219.54,1,0,0,0,None
+SES-10877,Mobile Web,UPI,3181.57,1,1,1,1,None
+SES-10878,Android App,COD,7035.61,1,1,1,1,None
+SES-10879,Mobile Web,COD,1179.91,1,0,0,0,None
+SES-10880,Android App,UPI,2185.56,1,0,0,0,None
+SES-10881,Android App,UPI,2647.77,1,1,1,1,None
+SES-10882,Android App,UPI,1677.35,1,1,0,0,None
+SES-10883,Desktop Web,Debit Card,8242.06,1,1,0,0,None
+SES-10884,Android App,UPI,6886.14,1,0,0,0,None
+SES-10885,Android App,UPI,2359.28,1,1,1,1,None
+SES-10886,Android App,UPI,3341.91,1,1,0,0,None
+SES-10887,Mobile Web,UPI,2183.27,1,0,0,0,None
+SES-10888,Mobile Web,UPI,3240.5,1,1,0,0,None
+SES-10889,Mobile Web,UPI,1160.98,1,1,1,0,OTP Delay / Drop
+SES-10890,Android App,Credit Card,6930.24,1,1,1,1,None
+SES-10891,Android App,Credit Card,4543.58,1,1,1,1,None
+SES-10892,Android App,Credit Card,2688.4,1,1,1,1,None
+SES-10893,iOS App,UPI,4176.13,1,1,0,0,None
+SES-10894,Android App,NetBanking,954.89,1,1,1,1,None
+SES-10895,Android App,UPI,6299.77,1,0,0,0,None
+SES-10896,iOS App,Debit Card,6716.17,1,1,1,1,None
+SES-10897,Mobile Web,UPI,4803.72,1,1,0,0,None
+SES-10898,Mobile Web,COD,7616.04,1,0,0,0,None
+SES-10899,Android App,UPI,4414.63,1,1,0,0,None
+SES-10900,Mobile Web,Credit Card,4364.93,1,0,0,0,None
+SES-10901,Mobile Web,UPI,7378.22,1,1,1,1,None
+SES-10902,Android App,UPI,4131.37,1,0,0,0,None
+SES-10903,Mobile Web,UPI,2070.55,1,1,1,1,None
+SES-10904,Desktop Web,UPI,5041.39,1,1,0,0,None
+SES-10905,iOS App,Credit Card,5657.61,1,1,0,0,None
+SES-10906,Android App,Credit Card,3476.76,1,0,0,0,None
+SES-10907,Mobile Web,UPI,5066.59,1,0,0,0,None
+SES-10908,Android App,UPI,2248.9,1,1,1,1,None
+SES-10909,Android App,NetBanking,2784.95,1,0,0,0,None
+SES-10910,Desktop Web,COD,5069.66,1,1,1,1,None
+SES-10911,Android App,UPI,6881.66,1,1,1,1,None
+SES-10912,Android App,UPI,4953.84,1,1,1,1,None
+SES-10913,Mobile Web,NetBanking,1900.16,1,1,0,0,None
+SES-10914,Mobile Web,UPI,2244.88,1,1,0,0,None
+SES-10915,Desktop Web,UPI,2605.24,1,0,0,0,None
+SES-10916,Android App,COD,6840.55,1,1,1,1,None
+SES-10917,iOS App,Debit Card,1715.54,1,1,1,0,OTP Delay / Drop
+SES-10918,Android App,UPI,4388.53,1,0,0,0,None
+SES-10919,Desktop Web,UPI,2830.98,1,0,0,0,None
+SES-10920,Android App,UPI,7767.38,1,1,1,0,OTP Delay / Drop
+SES-10921,iOS App,Debit Card,1735.09,1,0,0,0,None
+SES-10922,iOS App,UPI,5274.88,1,1,1,1,None
+SES-10923,Desktop Web,Debit Card,3682.32,1,1,1,0,Unexpected Shipping Fee
+SES-10924,Android App,UPI,2134.79,1,0,0,0,None
+SES-10925,Android App,Credit Card,5420.65,1,1,0,0,None
+SES-10926,Desktop Web,Credit Card,4509.71,1,0,0,0,None
+SES-10927,Android App,UPI,4908.83,1,1,1,1,None
+SES-10928,Android App,NetBanking,1784.6,1,0,0,0,None
+SES-10929,Android App,UPI,2399.07,1,1,1,1,None
+SES-10930,Android App,Debit Card,1391.86,1,0,0,0,None
+SES-10931,iOS App,UPI,1887.14,1,1,1,1,None
+SES-10932,Android App,NetBanking,3636.14,1,0,0,0,None
+SES-10933,Mobile Web,UPI,6681.94,1,1,1,1,None
+SES-10934,Android App,Debit Card,5025.82,1,0,0,0,None
+SES-10935,Desktop Web,UPI,1028.39,1,0,0,0,None
+SES-10936,Android App,NetBanking,4697.41,1,0,0,0,None
+SES-10937,Mobile Web,UPI,3260.02,1,1,1,1,None
+SES-10938,Android App,COD,5842.61,1,1,0,0,None
+SES-10939,Desktop Web,UPI,5391.32,1,1,1,1,None
+SES-10940,Mobile Web,UPI,7284.72,1,1,1,1,None
+SES-10941,Desktop Web,COD,6412.27,1,0,0,0,None
+SES-10942,Android App,UPI,8206.85,1,1,1,1,None
+SES-10943,Android App,Debit Card,6149.68,1,1,1,0,OTP Delay / Drop
+SES-10944,Desktop Web,UPI,3219.11,1,0,0,0,None
+SES-10945,Android App,UPI,2587.65,1,0,0,0,None
+SES-10946,Android App,NetBanking,7983.81,1,1,0,0,None
+SES-10947,Android App,UPI,7928.97,1,1,1,1,None
+SES-10948,Android App,UPI,1801.49,1,1,1,1,None
+SES-10949,iOS App,UPI,8244.58,1,1,0,0,None
+SES-10950,Android App,Credit Card,2472.52,1,1,1,1,None
+SES-10951,iOS App,Debit Card,6509.17,1,0,0,0,None
+SES-10952,Mobile Web,Credit Card,7734.78,1,1,1,0,Unexpected Shipping Fee
+SES-10953,Mobile Web,UPI,554.03,1,1,1,0,Payment Gateway Timeout
+SES-10954,Mobile Web,UPI,3718.65,1,0,0,0,None
+SES-10955,Desktop Web,COD,7773.31,1,1,0,0,None
+SES-10956,Android App,Debit Card,2672.34,1,1,1,0,Payment Gateway Timeout
+SES-10957,Android App,UPI,3939.09,1,1,1,1,None
+SES-10958,Mobile Web,UPI,6379.14,1,1,1,0,OTP Delay / Drop
+SES-10959,Android App,Credit Card,2898.84,1,1,1,0,OTP Delay / Drop
+SES-10960,Android App,UPI,1431.78,1,0,0,0,None
+SES-10961,iOS App,COD,3251.01,1,1,1,1,None
+SES-10962,Mobile Web,Credit Card,7952.37,1,1,1,0,Unexpected Shipping Fee
+SES-10963,iOS App,Credit Card,7686.99,1,1,1,0,Payment Gateway Timeout
+SES-10964,Android App,UPI,7112.24,1,1,1,1,None
+SES-10965,Mobile Web,UPI,5114.44,1,1,0,0,None
+SES-10966,iOS App,UPI,8344.53,1,1,1,1,None
+SES-10967,Android App,UPI,5258.37,1,1,1,1,None
+SES-10968,Mobile Web,UPI,5769.4,1,1,1,1,None
+SES-10969,iOS App,UPI,1879.36,1,1,0,0,None
+SES-10970,iOS App,UPI,8006.46,1,1,1,1,None
+SES-10971,Mobile Web,COD,2576.63,1,0,0,0,None
+SES-10972,Desktop Web,UPI,3279.5,1,0,0,0,None
+SES-10973,Android App,UPI,6035.78,1,0,0,0,None
+SES-10974,iOS App,UPI,5411.38,1,1,1,1,None
+SES-10975,Android App,Credit Card,3373.03,1,0,0,0,None
+SES-10976,Mobile Web,NetBanking,4318.28,1,1,1,1,None
+SES-10977,Android App,UPI,6945.52,1,1,1,0,Payment Gateway Timeout
+SES-10978,Android App,UPI,4233.01,1,0,0,0,None
+SES-10979,iOS App,NetBanking,2269.13,1,1,0,0,None
+SES-10980,Android App,NetBanking,7088.81,1,1,0,0,None
+SES-10981,Android App,UPI,2925.59,1,0,0,0,None
+SES-10982,Desktop Web,UPI,7969.93,1,0,0,0,None
+SES-10983,Mobile Web,Credit Card,760.31,1,1,1,1,None
+SES-10984,iOS App,UPI,1788.91,1,0,0,0,None
+SES-10985,Mobile Web,COD,4997.07,1,0,0,0,None
+SES-10986,Mobile Web,UPI,3840.75,1,1,0,0,None
+SES-10987,Android App,Credit Card,8007.8,1,1,0,0,None
+SES-10988,Mobile Web,UPI,3336.68,1,0,0,0,None
+SES-10989,iOS App,UPI,7168.99,1,1,0,0,None
+SES-10990,Mobile Web,Credit Card,3487.04,1,0,0,0,None
+SES-10991,Android App,UPI,3338.54,1,1,1,1,None
+SES-10992,Android App,Debit Card,5764.94,1,0,0,0,None
+SES-10993,Android App,UPI,1953.41,1,0,0,0,None
+SES-10994,Android App,NetBanking,834.36,1,1,1,0,Payment Gateway Timeout
+SES-10995,Android App,COD,4955.88,1,1,1,1,None
+SES-10996,Android App,Credit Card,6351.62,1,0,0,0,None
+SES-10997,Desktop Web,UPI,7589.34,1,0,0,0,None
+SES-10998,Desktop Web,COD,5582.95,1,1,1,1,None
+SES-10999,iOS App,UPI,6518.94,1,1,1,1,None
+SES-11000,iOS App,Debit Card,3927.09,1,1,1,0,Unexpected Shipping Fee
+SES-11001,Mobile Web,UPI,7163.27,1,1,1,0,OTP Delay / Drop
+SES-11002,Mobile Web,UPI,3531.7,1,0,0,0,None
+SES-11003,Desktop Web,UPI,7253.54,1,0,0,0,None
+SES-11004,iOS App,Credit Card,2967.05,1,1,1,1,None
+SES-11005,iOS App,UPI,813.19,1,0,0,0,None
+SES-11006,Android App,UPI,8326.82,1,0,0,0,None
+SES-11007,Desktop Web,UPI,6326.7,1,0,0,0,None
+SES-11008,Android App,Debit Card,6943.25,1,0,0,0,None
+SES-11009,Desktop Web,UPI,6766.17,1,0,0,0,None
+SES-11010,Android App,COD,705.18,1,1,0,0,None
+SES-11011,iOS App,Credit Card,6004.05,1,1,1,1,None
+SES-11012,Android App,COD,1948.65,1,1,1,0,OTP Delay / Drop
+SES-11013,Android App,UPI,4871.21,1,0,0,0,None
+SES-11014,Android App,UPI,1866.66,1,0,0,0,None
+SES-11015,Android App,Debit Card,7683.62,1,1,1,0,Payment Gateway Timeout
+SES-11016,Android App,UPI,631.76,1,0,0,0,None
+SES-11017,Mobile Web,Credit Card,1803.32,1,0,0,0,None
+SES-11018,Android App,UPI,7179.41,1,0,0,0,None
+SES-11019,Desktop Web,UPI,2351.03,1,1,1,1,None
+SES-11020,Mobile Web,COD,3856.44,1,1,1,1,None
+SES-11021,Android App,UPI,5091.17,1,0,0,0,None
+SES-11022,Android App,UPI,5165.6,1,0,0,0,None
+SES-11023,Android App,NetBanking,2950.77,1,0,0,0,None
+SES-11024,Android App,Credit Card,3680.87,1,1,0,0,None
+SES-11025,Desktop Web,Credit Card,2701.19,1,0,0,0,None
+SES-11026,Mobile Web,UPI,7733.85,1,1,1,0,Payment Gateway Timeout
+SES-11027,iOS App,UPI,3908.4,1,0,0,0,None
+SES-11028,Mobile Web,NetBanking,2293.77,1,1,1,0,Payment Gateway Timeout
+SES-11029,Mobile Web,COD,1261.98,1,1,0,0,None
+SES-11030,iOS App,UPI,7465.38,1,1,0,0,None
+SES-11031,Android App,UPI,6519.5,1,1,0,0,None
+SES-11032,Android App,Credit Card,4036.3,1,1,1,1,None
+SES-11033,Android App,UPI,4739.05,1,0,0,0,None
+SES-11034,Android App,Credit Card,6943.26,1,1,1,1,None
+SES-11035,Mobile Web,UPI,1693.15,1,1,1,1,None
+SES-11036,Android App,UPI,3767.05,1,1,1,1,None
+SES-11037,Mobile Web,UPI,776.42,1,0,0,0,None
+SES-11038,Android App,Debit Card,2046.68,1,0,0,0,None
+SES-11039,iOS App,UPI,7588.57,1,1,1,1,None
+SES-11040,Desktop Web,UPI,2339.18,1,1,1,0,Payment Gateway Timeout
+SES-11041,Android App,Debit Card,7108.34,1,1,1,1,None
+SES-11042,Mobile Web,NetBanking,3675.33,1,1,0,0,None
+SES-11043,Android App,Debit Card,3383.16,1,1,1,0,OTP Delay / Drop
+SES-11044,Android App,UPI,8440.65,1,1,1,1,None
+SES-11045,Android App,COD,8318.22,1,0,0,0,None
+SES-11046,Mobile Web,Credit Card,5122.03,1,1,0,0,None
+SES-11047,Mobile Web,UPI,4240.92,1,1,1,1,None
+SES-11048,iOS App,UPI,3919.32,1,1,1,0,Payment Gateway Timeout
+SES-11049,iOS App,COD,2111.43,1,1,0,0,None
+SES-11050,Desktop Web,Debit Card,7086.01,1,1,1,1,None
+SES-11051,iOS App,Debit Card,628.62,1,1,1,0,Unexpected Shipping Fee
+SES-11052,Android App,COD,8435.69,1,0,0,0,None
+SES-11053,Android App,UPI,6622.67,1,1,1,1,None
+SES-11054,Android App,COD,1321.84,1,1,1,1,None
+SES-11055,Android App,COD,5890.39,1,1,1,1,None
+SES-11056,Mobile Web,UPI,5911.55,1,1,1,1,None
+SES-11057,iOS App,Credit Card,5959.94,1,1,1,1,None
+SES-11058,iOS App,UPI,2706.66,1,1,1,0,Unexpected Shipping Fee
+SES-11059,Android App,Debit Card,2365.9,1,1,1,1,None
+SES-11060,iOS App,Debit Card,2248.93,1,1,1,1,None
+SES-11061,Android App,UPI,5347.58,1,1,0,0,None
+SES-11062,Mobile Web,UPI,6372.94,1,1,1,1,None
+SES-11063,Android App,UPI,7930.81,1,1,1,1,None
+SES-11064,Android App,UPI,608.47,1,1,0,0,None
+SES-11065,Android App,UPI,721.85,1,1,1,1,None
+SES-11066,iOS App,UPI,4884.71,1,1,0,0,None
+SES-11067,Android App,UPI,5810.26,1,1,1,0,Coupon Error
+SES-11068,Android App,COD,5114.63,1,0,0,0,None
+SES-11069,iOS App,Credit Card,1054.22,1,1,1,0,Payment Gateway Timeout
+SES-11070,iOS App,UPI,7838.06,1,1,0,0,None
+SES-11071,Android App,UPI,6217.47,1,1,1,0,Payment Gateway Timeout
+SES-11072,iOS App,Debit Card,7702.01,1,0,0,0,None
+SES-11073,Mobile Web,Debit Card,5936.75,1,1,0,0,None
+SES-11074,Desktop Web,UPI,507.9,1,0,0,0,None
+SES-11075,Android App,UPI,5794.34,1,1,1,1,None
+SES-11076,iOS App,Credit Card,628.96,1,0,0,0,None
+SES-11077,Mobile Web,UPI,5820.11,1,1,0,0,None
+SES-11078,iOS App,UPI,1575.74,1,0,0,0,None
+SES-11079,Android App,NetBanking,7847.1,1,0,0,0,None
+SES-11080,iOS App,UPI,3715.62,1,1,1,0,Unexpected Shipping Fee
+SES-11081,Mobile Web,UPI,499.25,1,1,0,0,None
+SES-11082,Mobile Web,UPI,2535.11,1,1,0,0,None
+SES-11083,Android App,Credit Card,7309.06,1,1,0,0,None
+SES-11084,Desktop Web,Credit Card,4615.21,1,0,0,0,None
+SES-11085,Android App,Credit Card,3539.21,1,1,1,1,None
+SES-11086,iOS App,UPI,2421.63,1,1,1,1,None
+SES-11087,Android App,UPI,1272.26,1,0,0,0,None
+SES-11088,Android App,COD,4052.27,1,0,0,0,None
+SES-11089,iOS App,COD,8464.55,1,1,1,1,None
+SES-11090,iOS App,NetBanking,3114.86,1,1,1,1,None
+SES-11091,Android App,UPI,5879.73,1,0,0,0,None
+SES-11092,Mobile Web,UPI,1564.81,1,0,0,0,None
+SES-11093,iOS App,UPI,5127.52,1,0,0,0,None
+SES-11094,Mobile Web,Debit Card,6527.53,1,1,1,1,None
+SES-11095,Desktop Web,Credit Card,6341.72,1,1,1,1,None
+SES-11096,iOS App,UPI,704.54,1,1,1,1,None
+SES-11097,Android App,UPI,5436.46,1,1,1,1,None
+SES-11098,Mobile Web,UPI,1503.52,1,1,1,1,None
+SES-11099,Desktop Web,UPI,4327.41,1,0,0,0,None
+SES-11100,iOS App,Credit Card,1187.34,1,1,1,0,Payment Gateway Timeout
+SES-11101,Android App,Credit Card,4854.3,1,0,0,0,None
+SES-11102,Android App,Credit Card,7060.36,1,0,0,0,None
+SES-11103,Android App,Credit Card,6014.17,1,1,0,0,None
+SES-11104,Android App,UPI,5408.72,1,1,1,1,None
+SES-11105,Desktop Web,NetBanking,5164.62,1,0,0,0,None
+SES-11106,Mobile Web,UPI,5627.37,1,1,0,0,None
+SES-11107,iOS App,UPI,6113.61,1,1,0,0,None
+SES-11108,iOS App,UPI,7790.62,1,1,0,0,None
+SES-11109,Android App,UPI,954.11,1,1,1,1,None
+SES-11110,Mobile Web,Debit Card,3150.15,1,1,1,0,OTP Delay / Drop
+SES-11111,Android App,Debit Card,4132.92,1,0,0,0,None
+SES-11112,Android App,COD,2506.28,1,0,0,0,None
+SES-11113,Android App,Credit Card,8254.54,1,0,0,0,None
+SES-11114,Android App,UPI,3213.78,1,0,0,0,None
+SES-11115,iOS App,UPI,5764.48,1,1,1,1,None
+SES-11116,Desktop Web,UPI,3337.18,1,1,1,0,Payment Gateway Timeout
+SES-11117,Android App,COD,3818.02,1,0,0,0,None
+SES-11118,Android App,Credit Card,4035.71,1,1,1,0,OTP Delay / Drop
+SES-11119,Android App,NetBanking,8023.97,1,0,0,0,None
+SES-11120,iOS App,COD,1710.61,1,1,1,0,OTP Delay / Drop
+SES-11121,iOS App,Credit Card,3711.1,1,0,0,0,None
+SES-11122,Android App,UPI,3633.33,1,1,0,0,None
+SES-11123,Android App,Debit Card,2169.86,1,1,1,1,None
+SES-11124,Android App,Credit Card,5261.43,1,1,1,1,None
+SES-11125,Desktop Web,Credit Card,3263.19,1,1,0,0,None
+SES-11126,Mobile Web,Credit Card,1133.32,1,1,1,1,None
+SES-11127,iOS App,COD,3669.9,1,0,0,0,None
+SES-11128,Android App,UPI,1710.72,1,0,0,0,None
+SES-11129,Android App,Credit Card,1144.0,1,0,0,0,None
+SES-11130,Desktop Web,Debit Card,5192.58,1,1,1,1,None
+SES-11131,Mobile Web,UPI,4314.19,1,1,0,0,None
+SES-11132,iOS App,NetBanking,6767.54,1,0,0,0,None
+SES-11133,Android App,COD,1493.89,1,1,1,1,None
+SES-11134,Desktop Web,COD,1916.41,1,1,1,1,None
+SES-11135,Mobile Web,UPI,3742.79,1,0,0,0,None
+SES-11136,iOS App,Credit Card,7987.43,1,1,0,0,None
+SES-11137,Mobile Web,Credit Card,6977.21,1,1,1,1,None
+SES-11138,Desktop Web,UPI,8360.15,1,1,0,0,None
+SES-11139,Android App,NetBanking,2741.96,1,1,0,0,None
+SES-11140,Android App,UPI,5651.3,1,1,1,1,None
+SES-11141,Android App,UPI,5295.29,1,1,1,1,None
+SES-11142,Desktop Web,UPI,2229.88,1,1,0,0,None
+SES-11143,Android App,UPI,7063.72,1,1,1,1,None
+SES-11144,Mobile Web,Credit Card,3324.18,1,1,0,0,None
+SES-11145,Mobile Web,Credit Card,7107.28,1,1,1,0,OTP Delay / Drop
+SES-11146,Mobile Web,Credit Card,3812.54,1,1,1,1,None
+SES-11147,Desktop Web,Credit Card,5340.32,1,0,0,0,None
+SES-11148,Android App,Credit Card,5072.43,1,1,0,0,None
+SES-11149,Android App,UPI,5334.48,1,1,1,0,Unexpected Shipping Fee
+SES-11150,iOS App,UPI,5831.84,1,1,1,1,None
+SES-11151,Android App,UPI,1806.1,1,0,0,0,None
+SES-11152,Android App,UPI,3593.04,1,0,0,0,None
+SES-11153,Android App,UPI,4593.17,1,0,0,0,None
+SES-11154,iOS App,UPI,7213.01,1,1,1,1,None
+SES-11155,Android App,Credit Card,995.39,1,0,0,0,None
+SES-11156,Android App,Credit Card,5027.71,1,1,0,0,None
+SES-11157,Desktop Web,Credit Card,8178.29,1,1,1,1,None
+SES-11158,Android App,UPI,851.57,1,1,1,1,None
+SES-11159,Android App,Credit Card,5664.22,1,1,0,0,None
+SES-11160,Android App,COD,7237.17,1,1,1,1,None
+SES-11161,Android App,UPI,1858.27,1,0,0,0,None
+SES-11162,Android App,UPI,4648.01,1,1,1,0,Payment Gateway Timeout
+SES-11163,Android App,COD,5974.2,1,0,0,0,None
+SES-11164,Desktop Web,UPI,3556.5,1,0,0,0,None
+SES-11165,iOS App,UPI,532.5,1,1,1,1,None
+SES-11166,Mobile Web,Credit Card,3785.72,1,1,0,0,None
+SES-11167,iOS App,UPI,691.06,1,0,0,0,None
+SES-11168,Android App,UPI,1286.49,1,1,1,1,None
+SES-11169,Desktop Web,Credit Card,6328.98,1,1,1,0,Payment Gateway Timeout
+SES-11170,Android App,UPI,1274.82,1,1,0,0,None
+SES-11171,Android App,NetBanking,5920.04,1,1,1,1,None
+SES-11172,iOS App,UPI,7879.4,1,0,0,0,None
+SES-11173,Android App,UPI,3298.85,1,1,0,0,None
+SES-11174,Mobile Web,COD,2424.6,1,1,0,0,None
+SES-11175,Desktop Web,NetBanking,2296.48,1,1,0,0,None
+SES-11176,Android App,UPI,8325.74,1,1,0,0,None
+SES-11177,Android App,NetBanking,3172.88,1,1,1,1,None
+SES-11178,Mobile Web,UPI,5126.46,1,0,0,0,None
+SES-11179,Mobile Web,NetBanking,7431.25,1,1,1,1,None
+SES-11180,Android App,Debit Card,1619.04,1,1,0,0,None
+SES-11181,Android App,Credit Card,3721.32,1,1,1,0,OTP Delay / Drop
+SES-11182,Desktop Web,UPI,5903.32,1,0,0,0,None
+SES-11183,Android App,UPI,1769.05,1,1,1,1,None
+SES-11184,Desktop Web,COD,7756.24,1,1,1,1,None
+SES-11185,Desktop Web,UPI,3342.87,1,0,0,0,None
+SES-11186,Mobile Web,Credit Card,3846.53,1,1,0,0,None
+SES-11187,Android App,Credit Card,5104.32,1,1,0,0,None
+SES-11188,Android App,UPI,4927.33,1,1,1,1,None
+SES-11189,iOS App,UPI,6437.91,1,1,0,0,None
+SES-11190,Android App,UPI,6741.48,1,1,1,1,None
+SES-11191,iOS App,UPI,6059.32,1,1,1,1,None
+SES-11192,iOS App,NetBanking,6379.94,1,0,0,0,None
+SES-11193,iOS App,Credit Card,1564.59,1,1,1,1,None
+SES-11194,Android App,UPI,5293.99,1,1,1,1,None
+SES-11195,iOS App,UPI,550.72,1,1,1,1,None
+SES-11196,iOS App,UPI,6376.6,1,1,0,0,None
+SES-11197,Android App,Credit Card,8031.74,1,1,1,0,Payment Gateway Timeout
+SES-11198,iOS App,UPI,5505.08,1,1,1,0,OTP Delay / Drop
+SES-11199,Android App,Credit Card,7672.49,1,0,0,0,None
+SES-11200,Android App,UPI,7393.18,1,1,0,0,None
+SES-11201,iOS App,COD,5275.16,1,1,1,0,Unexpected Shipping Fee
+SES-11202,Android App,Debit Card,7804.24,1,0,0,0,None
+SES-11203,iOS App,UPI,2649.65,1,1,1,1,None
+SES-11204,Android App,UPI,2950.63,1,1,0,0,None
+SES-11205,iOS App,Credit Card,3911.42,1,1,1,1,None
+SES-11206,iOS App,UPI,1201.39,1,1,1,0,Payment Gateway Timeout
+SES-11207,iOS App,UPI,2765.56,1,1,1,1,None
+SES-11208,Android App,NetBanking,609.91,1,0,0,0,None
+SES-11209,iOS App,Debit Card,6889.04,1,1,1,1,None
+SES-11210,Desktop Web,UPI,1729.42,1,0,0,0,None
+SES-11211,Desktop Web,UPI,5016.29,1,1,1,1,None
+SES-11212,Mobile Web,Debit Card,7953.85,1,1,1,0,Coupon Error
+SES-11213,Mobile Web,UPI,7537.9,1,1,1,1,None
+SES-11214,Android App,UPI,7678.98,1,1,1,1,None
+SES-11215,Android App,UPI,1604.14,1,1,0,0,None
+SES-11216,Mobile Web,Credit Card,5898.82,1,1,1,1,None
+SES-11217,Android App,Debit Card,6579.8,1,1,1,1,None
+SES-11218,Android App,UPI,2176.73,1,1,1,1,None
+SES-11219,Desktop Web,Credit Card,7976.29,1,1,1,1,None
+SES-11220,Android App,NetBanking,6626.64,1,1,1,1,None
+SES-11221,Mobile Web,COD,3647.84,1,0,0,0,None
+SES-11222,Android App,Debit Card,6334.21,1,1,1,0,OTP Delay / Drop
+SES-11223,Android App,Credit Card,2996.83,1,0,0,0,None
+SES-11224,Android App,Credit Card,6461.46,1,0,0,0,None
+SES-11225,Android App,UPI,2652.56,1,1,1,1,None
+SES-11226,Android App,NetBanking,7773.93,1,1,0,0,None
+SES-11227,Android App,Debit Card,7675.86,1,1,1,1,None
+SES-11228,Mobile Web,UPI,8150.29,1,0,0,0,None
+SES-11229,Android App,UPI,998.51,1,1,1,1,None
+SES-11230,iOS App,UPI,2487.57,1,1,1,1,None
+SES-11231,Android App,NetBanking,7503.78,1,0,0,0,None
+SES-11232,Android App,COD,7357.7,1,1,0,0,None
+SES-11233,Mobile Web,UPI,6022.27,1,1,0,0,None
+SES-11234,Desktop Web,Debit Card,3152.27,1,1,0,0,None
+SES-11235,iOS App,Credit Card,4584.07,1,1,1,1,None
+SES-11236,Android App,UPI,6918.97,1,1,1,0,Unexpected Shipping Fee
+SES-11237,Android App,COD,3129.91,1,1,0,0,None
+SES-11238,Mobile Web,Debit Card,6995.38,1,1,1,0,Coupon Error
+SES-11239,Android App,COD,1552.63,1,1,1,0,Unexpected Shipping Fee
+SES-11240,Mobile Web,Debit Card,2517.77,1,0,0,0,None
+SES-11241,Desktop Web,UPI,928.13,1,1,0,0,None
+SES-11242,Mobile Web,UPI,7292.63,1,1,1,1,None
+SES-11243,Android App,UPI,7191.37,1,0,0,0,None
+SES-11244,iOS App,UPI,6262.79,1,1,1,1,None
+SES-11245,iOS App,Credit Card,4186.65,1,0,0,0,None
+SES-11246,Mobile Web,NetBanking,6174.82,1,1,1,1,None
+SES-11247,Android App,NetBanking,5867.77,1,1,1,0,OTP Delay / Drop
+SES-11248,Android App,COD,6302.7,1,0,0,0,None
+SES-11249,Android App,UPI,7590.93,1,0,0,0,None
+SES-11250,Android App,COD,5932.98,1,1,0,0,None
+SES-11251,iOS App,UPI,2489.58,1,1,1,1,None
+SES-11252,Desktop Web,UPI,6703.82,1,1,1,1,None
+SES-11253,Android App,UPI,584.73,1,1,0,0,None
+SES-11254,iOS App,COD,3452.46,1,1,1,0,Payment Gateway Timeout
+SES-11255,Android App,Credit Card,4024.76,1,1,1,1,None
+SES-11256,Desktop Web,Credit Card,4561.57,1,0,0,0,None
+SES-11257,Android App,COD,2499.03,1,1,1,1,None
+SES-11258,Android App,Debit Card,5262.53,1,1,1,1,None
+SES-11259,Android App,UPI,6780.3,1,0,0,0,None
+SES-11260,Android App,NetBanking,5689.63,1,1,0,0,None
+SES-11261,Android App,UPI,2552.43,1,1,1,1,None
+SES-11262,Mobile Web,Credit Card,3066.16,1,0,0,0,None
+SES-11263,iOS App,COD,3981.53,1,0,0,0,None
+SES-11264,Desktop Web,UPI,936.92,1,0,0,0,None
+SES-11265,Android App,UPI,2256.3,1,1,1,1,None
+SES-11266,Android App,COD,7250.88,1,0,0,0,None
+SES-11267,Mobile Web,UPI,1462.03,1,1,1,1,None
+SES-11268,Android App,Debit Card,7930.39,1,1,1,1,None
+SES-11269,Android App,UPI,4598.65,1,0,0,0,None
+SES-11270,Android App,UPI,5470.27,1,1,0,0,None
+SES-11271,Mobile Web,UPI,783.76,1,1,1,1,None
+SES-11272,Desktop Web,UPI,929.7,1,1,1,1,None
+SES-11273,Android App,UPI,3633.88,1,1,1,1,None
+SES-11274,Mobile Web,UPI,4052.91,1,1,1,1,None
+SES-11275,Mobile Web,Credit Card,7391.43,1,1,1,0,Unexpected Shipping Fee
+SES-11276,Android App,Debit Card,4185.33,1,0,0,0,None
+SES-11277,Desktop Web,Credit Card,8395.15,1,1,1,1,None
+SES-11278,Mobile Web,UPI,4806.7,1,1,1,1,None
+SES-11279,Desktop Web,COD,1278.03,1,1,1,1,None
+SES-11280,Mobile Web,UPI,554.87,1,1,0,0,None
+SES-11281,Android App,UPI,7050.77,1,1,1,1,None
+SES-11282,Android App,NetBanking,503.78,1,0,0,0,None
+SES-11283,Android App,UPI,2367.77,1,1,1,1,None
+SES-11284,Android App,UPI,4943.95,1,1,1,1,None
+SES-11285,Android App,UPI,3514.31,1,0,0,0,None
+SES-11286,Desktop Web,COD,4443.15,1,0,0,0,None
+SES-11287,Android App,UPI,8127.18,1,1,1,1,None
+SES-11288,Android App,UPI,2883.83,1,0,0,0,None
+SES-11289,Android App,UPI,6765.07,1,1,1,1,None
+SES-11290,Android App,Credit Card,1489.89,1,0,0,0,None
+SES-11291,Android App,COD,2020.22,1,1,1,0,Unexpected Shipping Fee
+SES-11292,iOS App,UPI,8143.54,1,0,0,0,None
+SES-11293,Android App,COD,1849.65,1,1,0,0,None
+SES-11294,Mobile Web,UPI,4593.76,1,1,1,0,Unexpected Shipping Fee
+SES-11295,Desktop Web,COD,7056.82,1,1,1,1,None
+SES-11296,Desktop Web,UPI,2772.76,1,1,0,0,None
+SES-11297,Android App,UPI,3645.96,1,0,0,0,None
+SES-11298,iOS App,UPI,6029.66,1,1,1,0,Payment Gateway Timeout
+SES-11299,Android App,Credit Card,6871.32,1,1,1,0,Unexpected Shipping Fee
+SES-11300,iOS App,UPI,4875.91,1,1,1,1,None
+SES-11301,Android App,UPI,3807.55,1,0,0,0,None
+SES-11302,Android App,UPI,8145.15,1,1,1,0,Coupon Error
+SES-11303,Android App,UPI,1931.94,1,0,0,0,None
+SES-11304,Android App,COD,1628.73,1,0,0,0,None
+SES-11305,Mobile Web,UPI,8350.04,1,1,0,0,None
+SES-11306,Android App,Debit Card,3240.07,1,0,0,0,None
+SES-11307,iOS App,UPI,1667.31,1,1,1,1,None
+SES-11308,Desktop Web,COD,7599.64,1,0,0,0,None
+SES-11309,iOS App,NetBanking,1051.36,1,0,0,0,None
+SES-11310,Android App,UPI,5584.8,1,1,1,0,Payment Gateway Timeout
+SES-11311,Android App,Credit Card,7014.89,1,0,0,0,None
+SES-11312,Android App,UPI,2072.7,1,0,0,0,None
+SES-11313,Android App,UPI,5642.0,1,1,1,1,None
+SES-11314,iOS App,Debit Card,3399.38,1,1,1,0,Unexpected Shipping Fee
+SES-11315,Android App,UPI,6907.31,1,0,0,0,None
+SES-11316,Android App,UPI,7569.36,1,1,0,0,None
+SES-11317,Android App,Debit Card,701.81,1,1,1,1,None
+SES-11318,Mobile Web,UPI,944.98,1,1,1,1,None
+SES-11319,iOS App,UPI,3593.84,1,1,1,1,None
+SES-11320,Android App,UPI,2883.12,1,0,0,0,None
+SES-11321,Android App,COD,547.38,1,0,0,0,None
+SES-11322,iOS App,UPI,2960.74,1,1,0,0,None
+SES-11323,Desktop Web,UPI,8226.62,1,0,0,0,None
+SES-11324,Android App,Debit Card,4872.96,1,1,1,1,None
+SES-11325,Desktop Web,Credit Card,4776.01,1,1,1,0,Payment Gateway Timeout
+SES-11326,Android App,COD,3122.03,1,1,1,1,None
+SES-11327,Android App,Debit Card,3209.93,1,0,0,0,None
+SES-11328,Desktop Web,Debit Card,5279.03,1,0,0,0,None
+SES-11329,Desktop Web,UPI,2555.76,1,1,0,0,None
+SES-11330,iOS App,UPI,6450.99,1,1,0,0,None
+SES-11331,Desktop Web,UPI,3236.4,1,1,0,0,None
+SES-11332,Desktop Web,UPI,4411.88,1,0,0,0,None
+SES-11333,Android App,COD,5051.21,1,0,0,0,None
+SES-11334,Mobile Web,NetBanking,3234.13,1,0,0,0,None
+SES-11335,Android App,NetBanking,3405.41,1,1,1,0,Unexpected Shipping Fee
+SES-11336,Desktop Web,Credit Card,6432.76,1,0,0,0,None
+SES-11337,Mobile Web,NetBanking,3659.82,1,1,1,0,Payment Gateway Timeout
+SES-11338,Android App,Debit Card,4102.25,1,1,0,0,None
+SES-11339,Mobile Web,UPI,5577.59,1,0,0,0,None
+SES-11340,Android App,Debit Card,4865.11,1,1,1,1,None
+SES-11341,Android App,UPI,6488.62,1,1,1,1,None
+SES-11342,iOS App,UPI,8238.14,1,0,0,0,None
+SES-11343,Mobile Web,COD,3916.27,1,0,0,0,None
+SES-11344,iOS App,COD,4699.92,1,0,0,0,None
+SES-11345,Mobile Web,UPI,4073.26,1,0,0,0,None
+SES-11346,Android App,UPI,506.55,1,1,0,0,None
+SES-11347,Android App,COD,2438.07,1,1,1,1,None
+SES-11348,Mobile Web,NetBanking,4904.83,1,0,0,0,None
+SES-11349,Android App,Debit Card,5301.61,1,1,1,0,Unexpected Shipping Fee
+SES-11350,Mobile Web,COD,5088.08,1,1,1,1,None
+SES-11351,Android App,Credit Card,1046.59,1,1,1,1,None
+SES-11352,Desktop Web,UPI,3122.07,1,1,1,1,None
+SES-11353,Mobile Web,Credit Card,3648.48,1,1,1,1,None
+SES-11354,iOS App,COD,3219.38,1,1,1,1,None
+SES-11355,Mobile Web,UPI,6714.16,1,0,0,0,None
+SES-11356,Mobile Web,UPI,3942.2,1,1,1,1,None
+SES-11357,Android App,Debit Card,4782.32,1,1,1,0,OTP Delay / Drop
+SES-11358,Android App,UPI,831.02,1,1,1,1,None
+SES-11359,Android App,Credit Card,7363.34,1,1,1,1,None
+SES-11360,Mobile Web,UPI,8124.91,1,1,1,1,None
+SES-11361,Mobile Web,COD,4720.23,1,1,1,1,None
+SES-11362,Android App,UPI,6308.4,1,1,0,0,None
+SES-11363,Android App,UPI,4759.3,1,1,0,0,None
+SES-11364,iOS App,Credit Card,1829.21,1,0,0,0,None
+SES-11365,Android App,Credit Card,8258.52,1,0,0,0,None
+SES-11366,Mobile Web,COD,6597.46,1,1,1,1,None
+SES-11367,iOS App,UPI,5833.15,1,0,0,0,None
+SES-11368,iOS App,Credit Card,4417.78,1,1,1,0,OTP Delay / Drop
+SES-11369,Android App,Credit Card,2079.64,1,0,0,0,None
+SES-11370,Mobile Web,UPI,1178.82,1,1,0,0,None
+SES-11371,Android App,Credit Card,4001.17,1,0,0,0,None
+SES-11372,Android App,Credit Card,3275.37,1,1,1,1,None
+SES-11373,Desktop Web,COD,4518.48,1,0,0,0,None
+SES-11374,Android App,Debit Card,792.74,1,0,0,0,None
+SES-11375,iOS App,UPI,7864.21,1,1,0,0,None
+SES-11376,Android App,Credit Card,6425.05,1,1,1,0,OTP Delay / Drop
+SES-11377,Android App,COD,4643.6,1,1,1,0,OTP Delay / Drop
+SES-11378,Android App,Credit Card,3932.63,1,1,0,0,None
+SES-11379,Android App,UPI,7199.62,1,1,1,1,None
+SES-11380,Android App,UPI,4538.8,1,1,0,0,None
+SES-11381,Mobile Web,UPI,5114.04,1,0,0,0,None
+SES-11382,Android App,UPI,921.0,1,1,1,1,None
+SES-11383,Mobile Web,UPI,860.26,1,0,0,0,None
+SES-11384,Android App,NetBanking,2598.53,1,0,0,0,None
+SES-11385,Android App,UPI,4092.08,1,0,0,0,None
+SES-11386,iOS App,Credit Card,3158.75,1,1,0,0,None
+SES-11387,Android App,UPI,3433.75,1,0,0,0,None
+SES-11388,Android App,Debit Card,8230.16,1,1,1,1,None
+SES-11389,Desktop Web,COD,5305.94,1,1,1,1,None
+SES-11390,Mobile Web,UPI,5545.79,1,1,1,1,None
+SES-11391,iOS App,Credit Card,6561.97,1,1,1,1,None
+SES-11392,Android App,UPI,7897.06,1,1,1,1,None
+SES-11393,Android App,Credit Card,7802.32,1,1,1,1,None
+SES-11394,iOS App,Credit Card,2497.2,1,0,0,0,None
+SES-11395,Android App,COD,4973.3,1,1,1,1,None
+SES-11396,iOS App,UPI,627.24,1,0,0,0,None
+SES-11397,Desktop Web,UPI,5325.31,1,1,0,0,None
+SES-11398,Android App,Debit Card,7960.47,1,1,1,0,OTP Delay / Drop
+SES-11399,Android App,Credit Card,6630.54,1,1,1,0,Payment Gateway Timeout
+SES-11400,Desktop Web,Credit Card,7693.89,1,1,1,1,None
+SES-11401,iOS App,UPI,2976.84,1,1,0,0,None
+SES-11402,Android App,COD,6582.96,1,1,0,0,None
+SES-11403,Mobile Web,UPI,1971.54,1,1,1,0,Unexpected Shipping Fee
+SES-11404,iOS App,UPI,5432.59,1,0,0,0,None
+SES-11405,Android App,UPI,4247.92,1,0,0,0,None
+SES-11406,Android App,COD,2171.99,1,1,0,0,None
+SES-11407,Android App,UPI,6652.26,1,1,1,1,None
+SES-11408,Android App,Credit Card,667.09,1,1,1,1,None
+SES-11409,Android App,UPI,7033.06,1,0,0,0,None
+SES-11410,Desktop Web,UPI,4806.44,1,1,0,0,None
+SES-11411,Desktop Web,UPI,7136.36,1,0,0,0,None
+SES-11412,Android App,COD,6511.14,1,1,1,1,None
+SES-11413,Desktop Web,Debit Card,3406.59,1,1,1,1,None
+SES-11414,Desktop Web,UPI,3156.71,1,0,0,0,None
+SES-11415,Mobile Web,Debit Card,7935.16,1,1,1,0,Payment Gateway Timeout
+SES-11416,Mobile Web,Debit Card,1009.42,1,0,0,0,None
+SES-11417,Android App,UPI,2935.23,1,0,0,0,None
+SES-11418,Desktop Web,Credit Card,6241.13,1,0,0,0,None
+SES-11419,Desktop Web,UPI,6914.52,1,0,0,0,None
+SES-11420,Android App,COD,1944.44,1,1,1,1,None
+SES-11421,Desktop Web,UPI,3109.09,1,1,1,1,None
+SES-11422,Mobile Web,UPI,5365.3,1,1,1,1,None
+SES-11423,Android App,Debit Card,2325.88,1,1,1,1,None
+SES-11424,Android App,UPI,4293.94,1,0,0,0,None
+SES-11425,Android App,UPI,3699.26,1,1,1,1,None
+SES-11426,Android App,Credit Card,7574.63,1,1,1,1,None
+SES-11427,Android App,Credit Card,5817.58,1,1,1,1,None
+SES-11428,Android App,Debit Card,3785.26,1,1,1,1,None
+SES-11429,iOS App,UPI,6033.45,1,0,0,0,None
+SES-11430,Mobile Web,UPI,3445.37,1,1,0,0,None
+SES-11431,Desktop Web,UPI,4515.07,1,1,0,0,None
+SES-11432,Desktop Web,Debit Card,5156.14,1,0,0,0,None
+SES-11433,Mobile Web,COD,4154.56,1,1,1,1,None
+SES-11434,iOS App,UPI,8233.62,1,1,1,1,None
+SES-11435,Mobile Web,UPI,7403.54,1,0,0,0,None
+SES-11436,iOS App,UPI,4897.29,1,0,0,0,None
+SES-11437,Android App,COD,2131.16,1,1,1,1,None
+SES-11438,Mobile Web,Credit Card,935.94,1,0,0,0,None
+SES-11439,Desktop Web,Credit Card,2826.31,1,1,1,1,None
+SES-11440,iOS App,COD,2938.53,1,1,1,1,None
+SES-11441,Android App,UPI,2882.17,1,1,1,0,Unexpected Shipping Fee
+SES-11442,iOS App,UPI,1828.65,1,1,1,0,Payment Gateway Timeout
+SES-11443,Desktop Web,UPI,8404.98,1,1,0,0,None
+SES-11444,iOS App,UPI,7629.01,1,1,1,1,None
+SES-11445,iOS App,Debit Card,8369.68,1,0,0,0,None
+SES-11446,Android App,UPI,6263.37,1,1,1,1,None
+SES-11447,Android App,UPI,813.93,1,1,1,1,None
+SES-11448,Android App,Debit Card,1574.6,1,0,0,0,None
+SES-11449,iOS App,Credit Card,3926.24,1,0,0,0,None
+SES-11450,Android App,NetBanking,583.12,1,1,1,1,None
+SES-11451,Mobile Web,COD,3962.15,1,1,1,0,OTP Delay / Drop
+SES-11452,iOS App,UPI,7599.28,1,1,0,0,None
+SES-11453,Desktop Web,UPI,5420.17,1,0,0,0,None
+SES-11454,Desktop Web,COD,4571.18,1,1,1,1,None
+SES-11455,iOS App,UPI,8170.93,1,1,1,1,None
+SES-11456,Android App,Credit Card,2759.68,1,1,1,0,Payment Gateway Timeout
+SES-11457,Android App,COD,938.79,1,1,1,1,None
+SES-11458,iOS App,UPI,1735.32,1,1,0,0,None
+SES-11459,Android App,Credit Card,2569.6,1,1,1,1,None
+SES-11460,Android App,UPI,2925.06,1,0,0,0,None
+SES-11461,Desktop Web,COD,3178.36,1,0,0,0,None
+SES-11462,iOS App,COD,548.48,1,1,1,1,None
+SES-11463,Mobile Web,COD,1229.7,1,1,1,1,None
+SES-11464,Android App,COD,4799.86,1,0,0,0,None
+SES-11465,Android App,UPI,4099.0,1,1,1,0,OTP Delay / Drop
+SES-11466,Mobile Web,COD,2799.38,1,1,1,0,OTP Delay / Drop
+SES-11467,iOS App,UPI,1852.46,1,1,1,1,None
+SES-11468,Desktop Web,COD,4486.16,1,1,1,1,None
+SES-11469,iOS App,UPI,4849.84,1,1,1,1,None
+SES-11470,Mobile Web,Credit Card,8422.27,1,1,1,0,OTP Delay / Drop
+SES-11471,Android App,Debit Card,1862.87,1,1,1,0,Payment Gateway Timeout
+SES-11472,Android App,UPI,6754.02,1,0,0,0,None
+SES-11473,iOS App,NetBanking,5111.49,1,1,1,1,None
+SES-11474,Android App,NetBanking,2405.56,1,1,0,0,None
+SES-11475,Android App,Credit Card,2586.05,1,1,1,1,None
+SES-11476,Android App,Credit Card,4588.26,1,1,1,1,None
+SES-11477,Android App,COD,5069.16,1,1,1,1,None
+SES-11478,Mobile Web,UPI,5053.22,1,1,0,0,None
+SES-11479,Mobile Web,Credit Card,6243.83,1,1,1,1,None
+SES-11480,Android App,UPI,4162.66,1,0,0,0,None
+SES-11481,Android App,COD,2451.21,1,1,1,1,None
+SES-11482,Desktop Web,COD,2480.3,1,1,0,0,None
+SES-11483,Android App,COD,8232.94,1,0,0,0,None
+SES-11484,Android App,UPI,4708.28,1,1,0,0,None
+SES-11485,Mobile Web,UPI,6391.52,1,1,0,0,None
+SES-11486,Android App,UPI,3589.69,1,0,0,0,None
+SES-11487,Android App,UPI,4427.65,1,1,1,1,None
+SES-11488,Android App,UPI,2975.07,1,0,0,0,None
+SES-11489,Desktop Web,UPI,4057.15,1,1,1,1,None
+SES-11490,iOS App,COD,2432.05,1,1,1,1,None
+SES-11491,Mobile Web,Debit Card,5358.2,1,1,0,0,None
+SES-11492,Android App,Debit Card,1011.82,1,1,1,1,None
+SES-11493,iOS App,Debit Card,2186.97,1,1,1,1,None
+SES-11494,Mobile Web,UPI,7250.35,1,1,0,0,None
+SES-11495,iOS App,UPI,1569.36,1,1,1,1,None
+SES-11496,Desktop Web,UPI,2091.95,1,1,1,1,None
+SES-11497,Android App,Credit Card,4857.95,1,0,0,0,None
+SES-11498,Android App,UPI,2409.25,1,0,0,0,None
+SES-11499,Android App,UPI,6131.96,1,1,1,1,None
+SES-11500,Android App,UPI,3626.73,1,1,1,1,None
+SES-11501,Desktop Web,COD,6900.9,1,0,0,0,None
+SES-11502,Android App,UPI,3034.55,1,0,0,0,None
+SES-11503,Android App,Credit Card,6721.6,1,1,1,0,Unexpected Shipping Fee
+SES-11504,Mobile Web,UPI,5997.56,1,0,0,0,None
+SES-11505,Android App,UPI,6112.22,1,0,0,0,None
+SES-11506,Android App,UPI,3134.36,1,1,1,1,None
+SES-11507,Mobile Web,Debit Card,2932.06,1,1,0,0,None
+SES-11508,Mobile Web,UPI,4070.06,1,1,0,0,None
+SES-11509,Mobile Web,Debit Card,8398.94,1,1,1,0,Payment Gateway Timeout
+SES-11510,Mobile Web,Credit Card,7820.7,1,0,0,0,None
+SES-11511,Android App,Debit Card,5045.72,1,1,1,1,None
+SES-11512,Android App,UPI,3169.55,1,1,1,1,None
+SES-11513,iOS App,COD,5054.01,1,1,1,1,None
+SES-11514,iOS App,Credit Card,908.38,1,1,0,0,None
+SES-11515,Android App,Credit Card,2981.19,1,1,1,1,None
+SES-11516,Android App,Credit Card,3081.8,1,0,0,0,None
+SES-11517,Android App,UPI,1565.41,1,0,0,0,None
+SES-11518,Desktop Web,COD,6160.67,1,1,0,0,None
+SES-11519,Android App,Debit Card,6963.47,1,1,1,1,None
+SES-11520,Mobile Web,UPI,5650.91,1,1,1,1,None
+SES-11521,Mobile Web,Credit Card,5670.91,1,0,0,0,None
+SES-11522,iOS App,Credit Card,774.05,1,0,0,0,None
+SES-11523,iOS App,UPI,3979.55,1,0,0,0,None
+SES-11524,Android App,Credit Card,1566.46,1,1,0,0,None
+SES-11525,Mobile Web,NetBanking,1806.0,1,1,1,1,None
+SES-11526,Android App,UPI,7516.9,1,1,1,1,None
+SES-11527,iOS App,UPI,1352.8,1,1,1,1,None
+SES-11528,iOS App,COD,7125.32,1,1,0,0,None
+SES-11529,iOS App,UPI,1398.29,1,1,1,1,None
+SES-11530,Android App,UPI,1584.43,1,0,0,0,None
+SES-11531,Android App,UPI,8043.81,1,1,1,1,None
+SES-11532,iOS App,NetBanking,6182.52,1,1,1,1,None
+SES-11533,Android App,Debit Card,2700.07,1,0,0,0,None
+SES-11534,iOS App,UPI,8481.38,1,1,1,1,None
+SES-11535,Android App,UPI,7945.31,1,1,0,0,None
+SES-11536,Android App,Debit Card,6302.34,1,0,0,0,None
+SES-11537,Mobile Web,COD,8304.79,1,1,1,1,None
+SES-11538,Android App,NetBanking,5670.13,1,1,0,0,None
+SES-11539,iOS App,UPI,5701.15,1,1,1,1,None
+SES-11540,Desktop Web,COD,4012.48,1,1,1,1,None
+SES-11541,Android App,UPI,7110.95,1,1,1,1,None
+SES-11542,Mobile Web,UPI,939.87,1,1,0,0,None
+SES-11543,Android App,UPI,7928.37,1,0,0,0,None
+SES-11544,iOS App,UPI,4702.07,1,1,1,1,None
+SES-11545,Android App,COD,3379.84,1,1,0,0,None
+SES-11546,iOS App,UPI,5959.78,1,1,1,1,None
+SES-11547,Mobile Web,Debit Card,2644.41,1,0,0,0,None
+SES-11548,Android App,UPI,5743.74,1,0,0,0,None
+SES-11549,Android App,Credit Card,7457.44,1,1,0,0,None
+SES-11550,Desktop Web,UPI,4173.89,1,1,1,1,None
+SES-11551,Android App,Debit Card,7069.9,1,0,0,0,None
+SES-11552,Android App,UPI,7210.55,1,1,1,1,None
+SES-11553,Desktop Web,UPI,4904.12,1,1,1,1,None
+SES-11554,Android App,UPI,7788.88,1,0,0,0,None
+SES-11555,Mobile Web,Debit Card,889.18,1,0,0,0,None
+SES-11556,Mobile Web,UPI,3238.5,1,0,0,0,None
+SES-11557,iOS App,UPI,6552.93,1,0,0,0,None
+SES-11558,iOS App,UPI,2005.05,1,0,0,0,None
+SES-11559,Android App,UPI,5201.98,1,1,1,0,Unexpected Shipping Fee
+SES-11560,Android App,UPI,5081.73,1,1,0,0,None
+SES-11561,Mobile Web,UPI,3296.26,1,0,0,0,None
+SES-11562,iOS App,UPI,711.89,1,0,0,0,None
+SES-11563,Mobile Web,Credit Card,5145.63,1,1,1,0,Unexpected Shipping Fee
+SES-11564,Mobile Web,UPI,3319.2,1,1,1,1,None
+SES-11565,Android App,UPI,5909.24,1,1,0,0,None
+SES-11566,Mobile Web,COD,5526.41,1,1,1,1,None
+SES-11567,Android App,UPI,7002.62,1,0,0,0,None
+SES-11568,iOS App,Credit Card,6751.48,1,1,1,0,Unexpected Shipping Fee
+SES-11569,Mobile Web,UPI,6479.91,1,1,1,1,None
+SES-11570,Mobile Web,UPI,5623.22,1,0,0,0,None
+SES-11571,Android App,COD,766.42,1,1,0,0,None
+SES-11572,iOS App,UPI,6197.47,1,1,1,0,Payment Gateway Timeout
+SES-11573,Android App,Credit Card,7818.59,1,1,0,0,None
+SES-11574,Android App,UPI,6571.57,1,0,0,0,None
+SES-11575,iOS App,COD,1672.06,1,0,0,0,None
+SES-11576,iOS App,UPI,1753.24,1,1,1,1,None
+SES-11577,Mobile Web,Credit Card,6538.37,1,0,0,0,None
+SES-11578,Android App,UPI,3743.18,1,1,1,1,None
+SES-11579,Desktop Web,UPI,2857.83,1,1,1,1,None
+SES-11580,Android App,Credit Card,2517.83,1,0,0,0,None
+SES-11581,Desktop Web,UPI,7666.42,1,1,1,1,None
+SES-11582,Android App,Credit Card,7755.79,1,0,0,0,None
+SES-11583,Android App,COD,4122.52,1,1,1,1,None
+SES-11584,Desktop Web,Debit Card,2912.0,1,1,1,0,Payment Gateway Timeout
+SES-11585,Android App,UPI,1650.09,1,0,0,0,None
+SES-11586,Android App,UPI,6864.42,1,0,0,0,None
+SES-11587,Android App,UPI,5647.08,1,1,0,0,None
+SES-11588,Android App,UPI,1833.96,1,0,0,0,None
+SES-11589,Desktop Web,NetBanking,3331.87,1,1,1,1,None
+SES-11590,Mobile Web,Credit Card,5916.67,1,1,0,0,None
+SES-11591,Mobile Web,Credit Card,2628.08,1,1,1,0,Payment Gateway Timeout
+SES-11592,iOS App,COD,5055.55,1,1,1,1,None
+SES-11593,Mobile Web,COD,1808.09,1,0,0,0,None
+SES-11594,Mobile Web,Debit Card,8339.62,1,0,0,0,None
+SES-11595,Desktop Web,Debit Card,2448.16,1,1,1,1,None
+SES-11596,Mobile Web,UPI,6745.38,1,1,1,1,None
+SES-11597,Desktop Web,UPI,5544.71,1,1,1,1,None
+SES-11598,Android App,UPI,2982.28,1,1,1,1,None
+SES-11599,Mobile Web,COD,8025.95,1,1,1,1,None
+SES-11600,Android App,COD,6399.19,1,0,0,0,None
+SES-11601,Android App,UPI,2643.25,1,1,0,0,None
+SES-11602,Desktop Web,Credit Card,6268.16,1,1,1,1,None
+SES-11603,Android App,Debit Card,724.0,1,1,1,1,None
+SES-11604,Android App,Credit Card,1667.92,1,1,1,1,None
+SES-11605,Mobile Web,UPI,5717.9,1,1,1,0,Payment Gateway Timeout
+SES-11606,iOS App,UPI,634.32,1,1,0,0,None
+SES-11607,Desktop Web,UPI,7057.24,1,1,1,0,Coupon Error
+SES-11608,Android App,UPI,5802.54,1,0,0,0,None
+SES-11609,Desktop Web,COD,4522.51,1,1,0,0,None
+SES-11610,Mobile Web,UPI,8319.48,1,0,0,0,None
+SES-11611,Desktop Web,UPI,2894.68,1,1,1,1,None
+SES-11612,Android App,UPI,7027.46,1,1,1,1,None
+SES-11613,Android App,UPI,3237.15,1,0,0,0,None
+SES-11614,Desktop Web,Credit Card,3828.7,1,1,1,1,None
+SES-11615,Android App,COD,7066.61,1,1,1,1,None
+SES-11616,Android App,UPI,952.06,1,0,0,0,None
+SES-11617,Android App,Credit Card,7930.04,1,1,1,1,None
+SES-11618,iOS App,NetBanking,4066.54,1,0,0,0,None
+SES-11619,Mobile Web,Debit Card,1890.88,1,0,0,0,None
+SES-11620,Android App,Credit Card,1064.64,1,1,1,0,Payment Gateway Timeout
+SES-11621,iOS App,COD,4295.74,1,1,0,0,None
+SES-11622,Mobile Web,UPI,6870.92,1,1,1,1,None
+SES-11623,iOS App,COD,3786.95,1,0,0,0,None
+SES-11624,iOS App,Credit Card,3838.48,1,0,0,0,None
+SES-11625,Android App,UPI,632.39,1,1,1,1,None
+SES-11626,Desktop Web,UPI,2191.27,1,1,1,1,None
+SES-11627,Mobile Web,UPI,4547.86,1,1,1,1,None
+SES-11628,Android App,COD,7312.5,1,0,0,0,None
+SES-11629,Mobile Web,UPI,6598.65,1,1,1,1,None
+SES-11630,Android App,UPI,658.8,1,1,1,1,None
+SES-11631,iOS App,UPI,4643.64,1,1,1,1,None
+SES-11632,Android App,UPI,6244.26,1,0,0,0,None
+SES-11633,Android App,Debit Card,2363.38,1,1,1,0,Unexpected Shipping Fee
+SES-11634,iOS App,UPI,2393.0,1,1,1,1,None
+SES-11635,iOS App,NetBanking,3824.44,1,0,0,0,None
+SES-11636,Android App,COD,5853.82,1,1,0,0,None
+SES-11637,Android App,Credit Card,2133.26,1,0,0,0,None
+SES-11638,iOS App,UPI,8465.16,1,1,1,1,None
+SES-11639,iOS App,Credit Card,5026.38,1,1,0,0,None
+SES-11640,Desktop Web,NetBanking,4108.49,1,1,1,1,None
+SES-11641,Mobile Web,Credit Card,4438.43,1,0,0,0,None
+SES-11642,Android App,UPI,2465.79,1,1,1,1,None
+SES-11643,Desktop Web,UPI,8118.06,1,1,0,0,None
+SES-11644,iOS App,Credit Card,4843.07,1,1,1,1,None
+SES-11645,Android App,UPI,1292.27,1,1,1,1,None
+SES-11646,iOS App,UPI,6723.66,1,1,1,0,Payment Gateway Timeout
+SES-11647,Android App,UPI,7912.61,1,1,1,0,Unexpected Shipping Fee
+SES-11648,Android App,Credit Card,1172.79,1,1,1,1,None
+SES-11649,Desktop Web,Debit Card,2782.52,1,0,0,0,None
+SES-11650,iOS App,UPI,8226.66,1,0,0,0,None
+SES-11651,Android App,Credit Card,2462.88,1,1,1,1,None
+SES-11652,Mobile Web,Debit Card,5887.03,1,1,1,0,OTP Delay / Drop
+SES-11653,Desktop Web,UPI,3146.65,1,1,1,1,None
+SES-11654,Android App,COD,3614.51,1,1,0,0,None
+SES-11655,Mobile Web,Debit Card,2195.86,1,1,1,1,None
+SES-11656,Android App,UPI,3788.43,1,1,1,1,None
+SES-11657,Android App,UPI,7535.02,1,0,0,0,None
+SES-11658,Desktop Web,UPI,3207.39,1,1,1,1,None
+SES-11659,Android App,Debit Card,7103.34,1,0,0,0,None
+SES-11660,Android App,UPI,6820.46,1,0,0,0,None
+SES-11661,iOS App,UPI,5480.0,1,1,1,1,None
+SES-11662,Android App,UPI,6657.62,1,1,1,1,None
+SES-11663,Mobile Web,UPI,8077.17,1,1,1,1,None
+SES-11664,Android App,Debit Card,4370.5,1,1,1,0,Unexpected Shipping Fee
+SES-11665,Desktop Web,UPI,7991.88,1,1,1,1,None
+SES-11666,Mobile Web,NetBanking,2106.49,1,1,1,0,Unexpected Shipping Fee
+SES-11667,Mobile Web,UPI,8118.03,1,0,0,0,None
+SES-11668,Android App,UPI,4800.19,1,0,0,0,None
+SES-11669,iOS App,Credit Card,634.77,1,0,0,0,None
+SES-11670,Desktop Web,UPI,1643.64,1,1,0,0,None
+SES-11671,Android App,Credit Card,7958.07,1,0,0,0,None
+SES-11672,Mobile Web,NetBanking,605.26,1,1,0,0,None
+SES-11673,iOS App,UPI,4491.24,1,1,1,1,None
+SES-11674,Android App,Debit Card,4525.27,1,1,1,1,None
+SES-11675,Mobile Web,Credit Card,1694.2,1,1,1,1,None
+SES-11676,iOS App,UPI,7479.03,1,1,1,1,None
+SES-11677,iOS App,UPI,8198.67,1,1,1,1,None
+SES-11678,iOS App,UPI,5514.29,1,1,1,1,None
+SES-11679,Android App,NetBanking,7042.39,1,1,1,0,Coupon Error
+SES-11680,iOS App,UPI,6527.56,1,0,0,0,None
+SES-11681,Android App,Credit Card,4869.53,1,1,0,0,None
+SES-11682,Android App,UPI,7326.13,1,1,0,0,None
+SES-11683,Mobile Web,UPI,1224.86,1,0,0,0,None
+SES-11684,Android App,COD,1530.35,1,1,0,0,None
+SES-11685,Mobile Web,UPI,5484.73,1,1,1,1,None
+SES-11686,Android App,NetBanking,2368.76,1,0,0,0,None
+SES-11687,iOS App,UPI,6209.0,1,0,0,0,None
+SES-11688,Desktop Web,UPI,7432.63,1,0,0,0,None
+SES-11689,iOS App,UPI,3919.76,1,1,0,0,None
+SES-11690,Android App,Debit Card,6570.7,1,1,0,0,None
+SES-11691,Android App,Credit Card,7016.82,1,1,0,0,None
+SES-11692,Desktop Web,Credit Card,8102.18,1,1,1,0,OTP Delay / Drop
+SES-11693,Android App,NetBanking,4443.35,1,1,0,0,None
+SES-11694,iOS App,Credit Card,7274.13,1,1,1,1,None
+SES-11695,Mobile Web,UPI,3165.73,1,1,1,1,None
+SES-11696,iOS App,Credit Card,2405.94,1,0,0,0,None
+SES-11697,Mobile Web,Credit Card,3171.7,1,1,1,0,Payment Gateway Timeout
+SES-11698,Android App,COD,2940.1,1,1,0,0,None
+SES-11699,Android App,UPI,2956.01,1,0,0,0,None
+SES-11700,Android App,UPI,4852.41,1,1,1,1,None
+SES-11701,iOS App,UPI,4077.87,1,1,1,1,None
+SES-11702,Desktop Web,UPI,2565.07,1,1,0,0,None
+SES-11703,Android App,UPI,6575.92,1,1,1,1,None
+SES-11704,Android App,Debit Card,668.22,1,1,1,1,None
+SES-11705,Android App,Debit Card,3209.2,1,1,1,1,None
+SES-11706,iOS App,UPI,6435.71,1,1,0,0,None
+SES-11707,Android App,COD,2084.77,1,0,0,0,None
+SES-11708,Desktop Web,UPI,6281.19,1,1,1,1,None
+SES-11709,Android App,COD,1512.22,1,0,0,0,None
+SES-11710,Android App,Credit Card,1154.59,1,0,0,0,None
+SES-11711,Android App,COD,8311.89,1,1,1,0,Payment Gateway Timeout
+SES-11712,Desktop Web,Credit Card,2657.21,1,0,0,0,None
+SES-11713,Mobile Web,Credit Card,8412.99,1,0,0,0,None
+SES-11714,Android App,Debit Card,915.24,1,0,0,0,None
+SES-11715,Android App,UPI,8495.68,1,1,1,1,None
+SES-11716,Mobile Web,NetBanking,4577.32,1,1,1,0,Payment Gateway Timeout
+SES-11717,Android App,UPI,3507.15,1,1,1,1,None
+SES-11718,Mobile Web,Credit Card,1118.95,1,0,0,0,None
+SES-11719,Android App,UPI,3783.4,1,1,1,1,None
+SES-11720,Desktop Web,Credit Card,6914.41,1,0,0,0,None
+SES-11721,iOS App,UPI,1366.31,1,1,0,0,None
+SES-11722,Desktop Web,NetBanking,1844.11,1,0,0,0,None
+SES-11723,iOS App,Credit Card,5500.36,1,1,1,1,None
+SES-11724,Desktop Web,Credit Card,4821.28,1,1,1,1,None
+SES-11725,Android App,UPI,1997.96,1,1,1,1,None
+SES-11726,Android App,Debit Card,6286.37,1,1,1,0,Payment Gateway Timeout
+SES-11727,Mobile Web,UPI,2908.71,1,0,0,0,None
+SES-11728,Android App,UPI,2536.56,1,1,0,0,None
+SES-11729,iOS App,UPI,8392.54,1,1,1,1,None
+SES-11730,Android App,UPI,921.66,1,1,1,1,None
+SES-11731,iOS App,UPI,7191.35,1,1,1,1,None
+SES-11732,iOS App,Credit Card,4992.32,1,1,1,1,None
+SES-11733,Android App,UPI,3049.86,1,0,0,0,None
+SES-11734,iOS App,UPI,1429.77,1,1,0,0,None
+SES-11735,Desktop Web,UPI,6921.38,1,1,1,1,None
+SES-11736,Mobile Web,UPI,1584.15,1,1,0,0,None
+SES-11737,Android App,Debit Card,5642.1,1,1,1,0,Unexpected Shipping Fee
+SES-11738,Desktop Web,Debit Card,1745.97,1,1,1,1,None
+SES-11739,Android App,NetBanking,2173.66,1,1,0,0,None
+SES-11740,Android App,Debit Card,3719.61,1,1,1,0,Coupon Error
+SES-11741,Mobile Web,UPI,8082.8,1,1,0,0,None
+SES-11742,Android App,UPI,3717.49,1,1,1,0,Payment Gateway Timeout
+SES-11743,iOS App,UPI,3707.16,1,1,1,1,None
+SES-11744,Android App,Debit Card,6925.17,1,0,0,0,None
+SES-11745,Android App,UPI,3486.2,1,1,1,1,None
+SES-11746,Android App,NetBanking,6157.53,1,1,0,0,None
+SES-11747,Android App,UPI,1345.55,1,0,0,0,None
+SES-11748,iOS App,UPI,8387.46,1,1,0,0,None
+SES-11749,Mobile Web,UPI,5128.09,1,1,1,1,None
+SES-11750,Desktop Web,Credit Card,1895.16,1,1,1,1,None
+SES-11751,Android App,NetBanking,5653.35,1,0,0,0,None
+SES-11752,Mobile Web,COD,7651.68,1,1,1,1,None
+SES-11753,Desktop Web,UPI,4852.55,1,1,1,1,None
+SES-11754,Mobile Web,Debit Card,5353.34,1,0,0,0,None
+SES-11755,Android App,NetBanking,6260.61,1,1,1,1,None
+SES-11756,Android App,UPI,1890.99,1,1,1,0,Payment Gateway Timeout
+SES-11757,Android App,UPI,4898.57,1,1,1,1,None
+SES-11758,iOS App,Debit Card,7190.17,1,0,0,0,None
+SES-11759,Android App,UPI,7312.15,1,1,1,1,None
+SES-11760,Android App,COD,7240.15,1,1,0,0,None
+SES-11761,iOS App,COD,1278.11,1,1,1,1,None
+SES-11762,Android App,Credit Card,3299.4,1,0,0,0,None
+SES-11763,Desktop Web,UPI,4894.84,1,0,0,0,None
+SES-11764,iOS App,Credit Card,2544.59,1,1,0,0,None
+SES-11765,Android App,NetBanking,2058.74,1,1,1,0,Unexpected Shipping Fee
+SES-11766,iOS App,Debit Card,6208.57,1,0,0,0,None
+SES-11767,Android App,Credit Card,7441.65,1,1,1,0,OTP Delay / Drop
+SES-11768,Desktop Web,UPI,1641.43,1,1,1,1,None
+SES-11769,Android App,COD,3057.09,1,0,0,0,None
+SES-11770,Mobile Web,COD,3300.84,1,1,0,0,None
+SES-11771,Android App,Debit Card,2991.41,1,0,0,0,None
+SES-11772,Mobile Web,UPI,4381.62,1,1,1,1,None
+SES-11773,Mobile Web,UPI,4044.46,1,0,0,0,None
+SES-11774,Android App,UPI,4707.1,1,1,1,1,None
+SES-11775,Mobile Web,UPI,4693.56,1,1,1,1,None
+SES-11776,Mobile Web,UPI,2719.46,1,1,0,0,None
+SES-11777,Desktop Web,Debit Card,5117.07,1,1,1,0,OTP Delay / Drop
+SES-11778,Android App,Credit Card,4575.58,1,0,0,0,None
+SES-11779,iOS App,UPI,1150.87,1,0,0,0,None
+SES-11780,Android App,COD,3769.01,1,0,0,0,None
+SES-11781,iOS App,UPI,799.57,1,1,0,0,None
+SES-11782,Mobile Web,Credit Card,4569.16,1,0,0,0,None
+SES-11783,Android App,Debit Card,1845.06,1,1,0,0,None
+SES-11784,Android App,UPI,2789.53,1,1,1,1,None
+SES-11785,Android App,Credit Card,5707.42,1,1,1,1,None
+SES-11786,Mobile Web,UPI,1083.75,1,0,0,0,None
+SES-11787,Android App,COD,5269.66,1,1,0,0,None
+SES-11788,Mobile Web,UPI,4645.16,1,1,0,0,None
+SES-11789,Android App,Credit Card,7866.09,1,0,0,0,None
+SES-11790,Desktop Web,Credit Card,4165.1,1,1,1,1,None
+SES-11791,Desktop Web,Debit Card,1018.26,1,1,0,0,None
+SES-11792,iOS App,UPI,4257.9,1,1,1,1,None
+SES-11793,iOS App,Credit Card,3353.52,1,1,1,1,None
+SES-11794,Android App,Credit Card,7141.45,1,1,1,0,OTP Delay / Drop
+SES-11795,Android App,COD,7797.57,1,1,1,1,None
+SES-11796,Android App,UPI,6430.21,1,1,1,1,None
+SES-11797,Mobile Web,COD,7618.58,1,1,1,1,None
+SES-11798,iOS App,Credit Card,721.76,1,1,1,1,None
+SES-11799,Android App,UPI,5527.66,1,1,1,1,None
+SES-11800,iOS App,Debit Card,2737.42,1,1,1,1,None
+SES-11801,iOS App,UPI,3808.74,1,1,1,1,None
+SES-11802,Mobile Web,Debit Card,8425.13,1,1,0,0,None
+SES-11803,Android App,Credit Card,3135.57,1,1,1,0,OTP Delay / Drop
+SES-11804,Mobile Web,Debit Card,7559.41,1,1,0,0,None
+SES-11805,Android App,COD,977.16,1,1,1,1,None
+SES-11806,Desktop Web,UPI,3016.02,1,1,1,1,None
+SES-11807,iOS App,COD,881.3,1,1,1,0,Payment Gateway Timeout
+SES-11808,Mobile Web,UPI,2092.45,1,1,0,0,None
+SES-11809,Android App,UPI,7823.25,1,1,1,1,None
+SES-11810,Mobile Web,Credit Card,8406.95,1,0,0,0,None
+SES-11811,iOS App,UPI,2597.46,1,1,1,1,None
+SES-11812,Android App,UPI,8080.47,1,0,0,0,None
+SES-11813,Mobile Web,UPI,5226.03,1,1,1,0,Unexpected Shipping Fee
+SES-11814,Desktop Web,COD,4621.05,1,0,0,0,None
+SES-11815,Mobile Web,Credit Card,4921.18,1,0,0,0,None
+SES-11816,Android App,UPI,4735.8,1,0,0,0,None
+SES-11817,Android App,UPI,6282.44,1,1,1,1,None
+SES-11818,Android App,Credit Card,4813.09,1,1,1,1,None
+SES-11819,Desktop Web,Credit Card,1007.88,1,1,1,1,None
+SES-11820,iOS App,NetBanking,8474.79,1,1,1,0,OTP Delay / Drop
+SES-11821,Android App,COD,2029.13,1,1,1,1,None
+SES-11822,iOS App,UPI,827.7,1,1,1,1,None
+SES-11823,Android App,UPI,5988.42,1,1,1,1,None
+SES-11824,Desktop Web,UPI,6991.54,1,1,1,1,None
+SES-11825,Android App,Credit Card,1063.47,1,1,1,1,None
+SES-11826,Desktop Web,Debit Card,5763.26,1,0,0,0,None
+SES-11827,Mobile Web,Credit Card,8251.52,1,1,0,0,None
+SES-11828,Mobile Web,COD,4636.57,1,1,0,0,None
+SES-11829,Android App,Credit Card,1514.11,1,1,1,1,None
+SES-11830,iOS App,Credit Card,5480.23,1,0,0,0,None
+SES-11831,Android App,UPI,4430.13,1,1,1,0,Coupon Error
+SES-11832,Android App,UPI,6217.28,1,1,1,1,None
+SES-11833,iOS App,UPI,3785.94,1,1,0,0,None
+SES-11834,Android App,COD,1544.21,1,1,1,1,None
+SES-11835,Android App,UPI,2273.46,1,1,1,1,None
+SES-11836,Mobile Web,UPI,1139.59,1,1,1,1,None
+SES-11837,iOS App,UPI,1177.21,1,1,0,0,None
+SES-11838,Mobile Web,Debit Card,7821.03,1,1,0,0,None
+SES-11839,Mobile Web,Debit Card,917.72,1,1,0,0,None
+SES-11840,Mobile Web,NetBanking,6892.46,1,0,0,0,None
+SES-11841,iOS App,UPI,7262.49,1,0,0,0,None
+SES-11842,Mobile Web,COD,1744.7,1,1,1,1,None
+SES-11843,Android App,UPI,6840.11,1,1,0,0,None
+SES-11844,Android App,UPI,8488.49,1,1,1,1,None
+SES-11845,Android App,NetBanking,3422.3,1,0,0,0,None
+SES-11846,Mobile Web,Credit Card,7712.95,1,1,1,1,None
+SES-11847,Desktop Web,UPI,1102.37,1,1,1,0,Payment Gateway Timeout
+SES-11848,Mobile Web,COD,4179.0,1,0,0,0,None
+SES-11849,iOS App,UPI,6939.54,1,1,1,1,None
+SES-11850,Desktop Web,UPI,4458.1,1,1,1,1,None
+SES-11851,Android App,Credit Card,4521.77,1,0,0,0,None
+SES-11852,Android App,UPI,3172.17,1,1,1,1,None
+SES-11853,iOS App,Credit Card,566.97,1,1,0,0,None
+SES-11854,Mobile Web,Debit Card,3429.66,1,0,0,0,None
+SES-11855,Android App,Debit Card,8141.36,1,1,0,0,None
+SES-11856,Android App,UPI,1969.69,1,0,0,0,None
+SES-11857,iOS App,UPI,3348.91,1,1,1,0,OTP Delay / Drop
+SES-11858,iOS App,UPI,3861.42,1,1,1,0,OTP Delay / Drop
+SES-11859,Android App,UPI,7549.95,1,0,0,0,None
+SES-11860,Android App,Debit Card,7860.23,1,0,0,0,None
+SES-11861,Android App,UPI,5050.94,1,0,0,0,None
+SES-11862,Desktop Web,COD,6416.25,1,1,1,1,None
+SES-11863,Android App,Debit Card,3781.84,1,0,0,0,None
+SES-11864,iOS App,UPI,2027.69,1,0,0,0,None
+SES-11865,Mobile Web,UPI,2912.6,1,0,0,0,None
+SES-11866,Android App,COD,6491.74,1,1,0,0,None
+SES-11867,Android App,UPI,2515.24,1,1,1,1,None
+SES-11868,Desktop Web,Credit Card,4767.38,1,1,1,1,None
+SES-11869,iOS App,UPI,6956.66,1,1,1,1,None
+SES-11870,iOS App,UPI,1531.65,1,1,1,1,None
+SES-11871,iOS App,COD,2966.13,1,1,1,1,None
+SES-11872,Mobile Web,Debit Card,2481.75,1,1,0,0,None
+SES-11873,Android App,UPI,6327.68,1,1,1,1,None
+SES-11874,Android App,UPI,4513.1,1,1,0,0,None
+SES-11875,Mobile Web,UPI,3750.34,1,1,1,1,None
+SES-11876,iOS App,Credit Card,7046.7,1,0,0,0,None
+SES-11877,Android App,NetBanking,6042.72,1,0,0,0,None
+SES-11878,iOS App,Debit Card,3795.55,1,0,0,0,None
+SES-11879,Android App,Debit Card,4696.9,1,1,0,0,None
+SES-11880,iOS App,UPI,7754.84,1,0,0,0,None
+SES-11881,iOS App,UPI,4097.88,1,0,0,0,None
+SES-11882,Mobile Web,NetBanking,4456.27,1,1,1,1,None
+SES-11883,Desktop Web,UPI,3784.2,1,1,1,1,None
+SES-11884,Desktop Web,COD,5985.39,1,0,0,0,None
+SES-11885,Mobile Web,UPI,7419.82,1,1,1,1,None
+SES-11886,Android App,UPI,2414.2,1,0,0,0,None
+SES-11887,Android App,UPI,3063.86,1,1,1,0,Payment Gateway Timeout
+SES-11888,Android App,Credit Card,4034.27,1,0,0,0,None
+SES-11889,Android App,Debit Card,7647.97,1,1,1,0,Unexpected Shipping Fee
+SES-11890,Android App,Debit Card,1714.99,1,1,0,0,None
+SES-11891,Android App,UPI,6961.43,1,1,1,1,None
+SES-11892,Android App,UPI,1552.81,1,1,1,1,None
+SES-11893,Mobile Web,Credit Card,2524.86,1,1,1,1,None
+SES-11894,iOS App,Credit Card,5743.14,1,1,0,0,None
+SES-11895,Android App,COD,2974.26,1,1,1,1,None
+SES-11896,Mobile Web,UPI,3480.63,1,1,1,1,None
+SES-11897,Android App,Credit Card,1080.96,1,0,0,0,None
+SES-11898,Mobile Web,UPI,5915.98,1,1,0,0,None
+SES-11899,Mobile Web,Credit Card,6426.81,1,1,0,0,None
+SES-11900,Mobile Web,UPI,6970.68,1,0,0,0,None
+SES-11901,Android App,Credit Card,6462.93,1,0,0,0,None
+SES-11902,Android App,UPI,4174.23,1,1,1,1,None
+SES-11903,Mobile Web,COD,4860.21,1,1,1,0,OTP Delay / Drop
+SES-11904,Desktop Web,UPI,2355.86,1,1,1,1,None
+SES-11905,Mobile Web,NetBanking,7356.09,1,0,0,0,None
+SES-11906,Android App,UPI,4001.69,1,0,0,0,None
+SES-11907,Android App,UPI,6677.91,1,0,0,0,None
+SES-11908,Android App,NetBanking,3920.78,1,0,0,0,None
+SES-11909,iOS App,UPI,3198.21,1,1,1,1,None
+SES-11910,Android App,COD,6957.9,1,1,1,1,None
+SES-11911,iOS App,UPI,7967.57,1,0,0,0,None
+SES-11912,Android App,UPI,5004.88,1,1,0,0,None
+SES-11913,Desktop Web,UPI,2404.24,1,1,1,1,None
+SES-11914,Desktop Web,UPI,1405.06,1,0,0,0,None
+SES-11915,iOS App,COD,4316.36,1,1,1,1,None
+SES-11916,Desktop Web,Debit Card,1091.67,1,0,0,0,None
+SES-11917,Desktop Web,UPI,2798.51,1,1,1,1,None
+SES-11918,iOS App,UPI,1190.75,1,1,0,0,None
+SES-11919,Android App,UPI,7194.74,1,1,1,1,None
+SES-11920,iOS App,COD,2794.06,1,1,1,1,None
+SES-11921,Android App,UPI,1811.67,1,1,1,0,Payment Gateway Timeout
+SES-11922,Mobile Web,COD,8300.67,1,1,1,0,Payment Gateway Timeout
+SES-11923,Desktop Web,UPI,1401.84,1,1,1,1,None
+SES-11924,Desktop Web,Credit Card,1817.01,1,1,1,1,None
+SES-11925,Android App,UPI,6394.09,1,1,1,1,None
+SES-11926,iOS App,COD,937.01,1,1,0,0,None
+SES-11927,Android App,Credit Card,4524.57,1,1,1,0,Payment Gateway Timeout
+SES-11928,Mobile Web,COD,8009.69,1,1,0,0,None
+SES-11929,Mobile Web,COD,4903.91,1,1,0,0,None
+SES-11930,Mobile Web,UPI,3687.23,1,1,0,0,None
+SES-11931,Android App,UPI,2783.92,1,1,1,1,None
+SES-11932,Desktop Web,UPI,1283.45,1,1,1,1,None
+SES-11933,iOS App,UPI,1383.46,1,1,0,0,None
+SES-11934,Android App,UPI,3965.44,1,1,1,1,None
+SES-11935,Mobile Web,Debit Card,3909.97,1,0,0,0,None
+SES-11936,Android App,UPI,6691.73,1,1,1,1,None
+SES-11937,Android App,UPI,6864.15,1,1,1,1,None
+SES-11938,iOS App,UPI,2383.76,1,1,1,1,None
+SES-11939,Desktop Web,COD,6177.99,1,0,0,0,None
+SES-11940,iOS App,Credit Card,8301.93,1,1,1,1,None
+SES-11941,Desktop Web,UPI,6988.65,1,0,0,0,None
+SES-11942,Android App,UPI,5908.42,1,1,1,1,None
+SES-11943,Android App,COD,1211.17,1,1,0,0,None
+SES-11944,iOS App,COD,7732.81,1,1,1,0,Payment Gateway Timeout
+SES-11945,Android App,Credit Card,1774.32,1,0,0,0,None
+SES-11946,Desktop Web,COD,1834.77,1,1,1,1,None
+SES-11947,Android App,UPI,7775.46,1,1,0,0,None
+SES-11948,Android App,UPI,4090.26,1,1,1,1,None
+SES-11949,iOS App,UPI,2313.3,1,1,1,1,None
+SES-11950,Desktop Web,COD,6750.11,1,1,1,1,None
+SES-11951,Android App,UPI,5523.3,1,0,0,0,None
+SES-11952,Android App,COD,5570.75,1,1,1,1,None
+SES-11953,Android App,COD,8162.09,1,1,0,0,None
+SES-11954,Android App,Credit Card,2926.22,1,0,0,0,None
+SES-11955,Android App,UPI,5124.15,1,0,0,0,None
+SES-11956,Desktop Web,Credit Card,1162.4,1,1,1,1,None
+SES-11957,iOS App,UPI,7347.26,1,1,1,1,None
+SES-11958,Android App,UPI,2028.04,1,1,0,0,None
+SES-11959,Mobile Web,UPI,6637.63,1,1,1,1,None
+SES-11960,Android App,UPI,4223.36,1,1,1,1,None
+SES-11961,Desktop Web,COD,2154.18,1,0,0,0,None
+SES-11962,Android App,UPI,4579.39,1,1,1,1,None
+SES-11963,iOS App,COD,7939.97,1,1,1,1,None
+SES-11964,Android App,Credit Card,7669.79,1,0,0,0,None
+SES-11965,Mobile Web,UPI,3059.8,1,0,0,0,None
+SES-11966,Android App,UPI,2095.77,1,1,1,1,None
+SES-11967,Android App,Credit Card,2599.34,1,0,0,0,None
+SES-11968,Android App,UPI,6915.11,1,1,1,1,None
+SES-11969,Mobile Web,Credit Card,3827.98,1,1,0,0,None
+SES-11970,Desktop Web,UPI,2222.09,1,0,0,0,None
+SES-11971,Android App,UPI,3534.3,1,1,0,0,None
+SES-11972,Desktop Web,Credit Card,3794.98,1,1,1,1,None
+SES-11973,Desktop Web,UPI,2181.42,1,0,0,0,None
+SES-11974,iOS App,Credit Card,815.5,1,0,0,0,None
+SES-11975,Android App,Credit Card,6084.26,1,0,0,0,None
+SES-11976,iOS App,UPI,1247.25,1,1,0,0,None
+SES-11977,Android App,UPI,8080.94,1,1,1,0,OTP Delay / Drop
+SES-11978,Android App,Debit Card,4483.09,1,1,0,0,None
+SES-11979,Android App,NetBanking,7437.08,1,1,1,1,None
+SES-11980,Mobile Web,UPI,5030.15,1,0,0,0,None
+SES-11981,Mobile Web,UPI,2328.59,1,0,0,0,None
+SES-11982,Desktop Web,UPI,6521.57,1,0,0,0,None
+SES-11983,iOS App,UPI,555.78,1,1,1,1,None
+SES-11984,Mobile Web,UPI,4825.67,1,1,1,1,None
+SES-11985,Mobile Web,Debit Card,8147.8,1,0,0,0,None
+SES-11986,iOS App,UPI,8129.58,1,1,1,1,None
+SES-11987,iOS App,UPI,1510.84,1,0,0,0,None
+SES-11988,Mobile Web,UPI,5783.42,1,0,0,0,None
+SES-11989,iOS App,UPI,5313.09,1,0,0,0,None
+SES-11990,Android App,UPI,4872.47,1,1,1,1,None
+SES-11991,Android App,Debit Card,7123.23,1,1,1,0,Unexpected Shipping Fee
+SES-11992,Android App,UPI,4792.4,1,0,0,0,None
+SES-11993,Desktop Web,NetBanking,7240.12,1,1,0,0,None
+SES-11994,Android App,UPI,4265.12,1,1,0,0,None
+SES-11995,Android App,UPI,8075.17,1,0,0,0,None
+SES-11996,Android App,UPI,1166.12,1,0,0,0,None
+SES-11997,Desktop Web,Credit Card,5835.96,1,1,1,0,Coupon Error
+SES-11998,Android App,Credit Card,809.43,1,1,1,1,None
+SES-11999,Android App,NetBanking,6633.91,1,1,0,0,None
+SES-12000,Android App,UPI,4767.97,1,0,0,0,None
+SES-12001,Android App,UPI,2165.06,1,1,1,1,None
+SES-12002,Android App,NetBanking,2736.67,1,1,1,0,Payment Gateway Timeout
+SES-12003,iOS App,COD,2430.04,1,1,1,1,None
+SES-12004,Android App,UPI,6480.96,1,0,0,0,None
+SES-12005,iOS App,NetBanking,8176.7,1,1,1,1,None
+SES-12006,Mobile Web,Credit Card,4446.23,1,1,1,1,None
+SES-12007,Android App,COD,3567.23,1,1,1,1,None
+SES-12008,Android App,Debit Card,2773.59,1,1,1,1,None
+SES-12009,iOS App,Credit Card,4065.28,1,1,1,1,None
+SES-12010,Mobile Web,UPI,4088.51,1,0,0,0,None
+SES-12011,iOS App,Debit Card,6771.56,1,1,1,1,None
+SES-12012,Android App,Credit Card,1704.04,1,1,1,1,None
+SES-12013,Desktop Web,UPI,6335.9,1,1,1,1,None
+SES-12014,Android App,UPI,4396.15,1,1,1,1,None
+SES-12015,Desktop Web,Credit Card,7938.89,1,1,1,1,None
+SES-12016,iOS App,Credit Card,1457.09,1,0,0,0,None
+SES-12017,Mobile Web,UPI,7696.8,1,0,0,0,None
+SES-12018,Desktop Web,COD,4661.36,1,1,1,1,None
+SES-12019,Mobile Web,Debit Card,1547.25,1,0,0,0,None
+SES-12020,iOS App,UPI,4480.03,1,1,1,0,Payment Gateway Timeout
+SES-12021,Android App,UPI,3958.93,1,0,0,0,None
+SES-12022,iOS App,UPI,4529.04,1,1,1,1,None
+SES-12023,Android App,Credit Card,5598.87,1,0,0,0,None
+SES-12024,iOS App,Debit Card,3184.21,1,1,1,0,Unexpected Shipping Fee
+SES-12025,Android App,Credit Card,5684.47,1,0,0,0,None
+SES-12026,Android App,Credit Card,5448.3,1,1,1,1,None
+SES-12027,Android App,UPI,1226.57,1,0,0,0,None
+SES-12028,Desktop Web,Debit Card,1515.95,1,1,0,0,None
+SES-12029,Android App,Credit Card,7184.41,1,1,1,0,Payment Gateway Timeout
+SES-12030,Android App,COD,572.33,1,0,0,0,None
+SES-12031,Android App,COD,5406.83,1,0,0,0,None
+SES-12032,Android App,UPI,724.56,1,1,1,1,None
+SES-12033,Android App,COD,3826.73,1,1,1,1,None
+SES-12034,Mobile Web,COD,3763.73,1,0,0,0,None
+SES-12035,Android App,Credit Card,7764.58,1,1,1,1,None
+SES-12036,Mobile Web,UPI,6040.27,1,0,0,0,None
+SES-12037,iOS App,COD,1478.97,1,0,0,0,None
+SES-12038,iOS App,COD,3779.6,1,1,1,1,None
+SES-12039,iOS App,UPI,2724.43,1,1,1,1,None
+SES-12040,Android App,COD,2760.62,1,1,1,0,OTP Delay / Drop
+SES-12041,Mobile Web,UPI,4391.03,1,1,1,0,Unexpected Shipping Fee
+SES-12042,Mobile Web,Credit Card,5852.1,1,1,0,0,None
+SES-12043,Android App,COD,1559.73,1,1,0,0,None
+SES-12044,Mobile Web,UPI,7968.68,1,1,1,1,None
+SES-12045,Mobile Web,Debit Card,2251.69,1,1,0,0,None
+SES-12046,Android App,Credit Card,6659.56,1,1,1,1,None
+SES-12047,Android App,COD,7621.66,1,1,1,1,None
+SES-12048,Android App,NetBanking,4646.11,1,1,0,0,None
+SES-12049,iOS App,UPI,5147.33,1,1,1,1,None
+SES-12050,Mobile Web,UPI,5533.38,1,0,0,0,None
+SES-12051,Mobile Web,Debit Card,914.78,1,1,1,0,Unexpected Shipping Fee
+SES-12052,iOS App,UPI,2433.36,1,1,0,0,None
+SES-12053,iOS App,COD,3526.16,1,0,0,0,None
+SES-12054,Mobile Web,UPI,4307.93,1,0,0,0,None
+SES-12055,Desktop Web,Debit Card,2183.44,1,1,1,1,None
+SES-12056,iOS App,UPI,3775.9,1,1,1,1,None
+SES-12057,Mobile Web,Debit Card,2324.03,1,1,1,0,Coupon Error
+SES-12058,iOS App,UPI,4514.99,1,1,1,0,OTP Delay / Drop
+SES-12059,iOS App,Credit Card,4538.97,1,1,0,0,None
+SES-12060,Android App,NetBanking,4833.62,1,1,0,0,None
+SES-12061,Android App,Debit Card,7959.48,1,1,1,1,None
+SES-12062,Desktop Web,UPI,1583.27,1,0,0,0,None
+SES-12063,iOS App,UPI,7971.83,1,1,1,1,None
+SES-12064,Android App,UPI,3752.5,1,1,1,1,None
+SES-12065,Android App,NetBanking,4149.99,1,0,0,0,None
+SES-12066,Android App,UPI,4572.42,1,0,0,0,None
+SES-12067,Android App,Credit Card,5025.54,1,1,0,0,None
+SES-12068,Mobile Web,COD,7797.95,1,0,0,0,None
+SES-12069,Desktop Web,UPI,1551.65,1,1,1,1,None
+SES-12070,Android App,COD,8276.4,1,1,1,1,None
+SES-12071,Mobile Web,UPI,8079.37,1,1,1,1,None
+SES-12072,Android App,UPI,4038.59,1,1,1,0,Payment Gateway Timeout
+SES-12073,iOS App,UPI,4286.95,1,0,0,0,None
+SES-12074,iOS App,COD,5794.87,1,1,0,0,None
+SES-12075,Android App,NetBanking,7744.56,1,1,1,1,None
+SES-12076,Android App,Credit Card,2775.38,1,1,0,0,None
+SES-12077,Android App,Debit Card,7402.03,1,1,1,0,Payment Gateway Timeout
+SES-12078,Mobile Web,COD,7814.64,1,1,1,1,None
+SES-12079,Android App,COD,3064.62,1,1,0,0,None
+SES-12080,iOS App,UPI,850.09,1,1,1,1,None
+SES-12081,Mobile Web,UPI,2549.6,1,1,1,1,None
+SES-12082,Android App,Debit Card,502.21,1,1,1,1,None
+SES-12083,Mobile Web,UPI,2031.11,1,1,0,0,None
+SES-12084,Android App,Credit Card,3339.32,1,1,1,1,None
+SES-12085,Android App,COD,5632.28,1,1,1,0,Payment Gateway Timeout
+SES-12086,Android App,COD,2910.95,1,1,1,1,None
+SES-12087,Android App,Debit Card,5347.72,1,1,1,1,None
+SES-12088,iOS App,UPI,1623.13,1,0,0,0,None
+SES-12089,iOS App,UPI,4532.06,1,0,0,0,None
+SES-12090,iOS App,UPI,8087.35,1,0,0,0,None
+SES-12091,Mobile Web,Debit Card,1123.03,1,0,0,0,None
+SES-12092,Android App,Credit Card,1784.87,1,1,1,0,Coupon Error
+SES-12093,Android App,Credit Card,3412.33,1,1,1,0,OTP Delay / Drop
+SES-12094,Android App,UPI,2696.91,1,0,0,0,None
+SES-12095,Desktop Web,UPI,7809.73,1,1,1,1,None
+SES-12096,Mobile Web,UPI,6814.11,1,1,1,1,None
+SES-12097,Android App,COD,4712.29,1,0,0,0,None
+SES-12098,Android App,UPI,1030.31,1,1,1,1,None
+SES-12099,Desktop Web,UPI,5738.91,1,0,0,0,None
+SES-12100,Android App,COD,2467.24,1,1,0,0,None
+SES-12101,iOS App,Credit Card,6122.63,1,0,0,0,None
+SES-12102,Android App,UPI,2215.73,1,1,1,0,Unexpected Shipping Fee
+SES-12103,Android App,Credit Card,2221.17,1,0,0,0,None
+SES-12104,Mobile Web,COD,4647.46,1,0,0,0,None
+SES-12105,Android App,UPI,897.3,1,1,1,1,None
+SES-12106,Android App,Credit Card,4768.47,1,1,1,0,Coupon Error
+SES-12107,Android App,Debit Card,4414.07,1,0,0,0,None
+SES-12108,iOS App,UPI,4139.06,1,1,1,1,None
+SES-12109,iOS App,Debit Card,8025.06,1,1,0,0,None
+SES-12110,Android App,UPI,4469.86,1,1,1,1,None
+SES-12111,iOS App,UPI,6583.48,1,0,0,0,None
+SES-12112,Desktop Web,COD,2076.05,1,1,1,1,None
+SES-12113,Desktop Web,Debit Card,4130.23,1,1,1,1,None
+SES-12114,iOS App,NetBanking,4340.56,1,0,0,0,None
+SES-12115,Android App,Credit Card,5132.62,1,1,1,1,None
+SES-12116,Android App,COD,5893.17,1,0,0,0,None
+SES-12117,iOS App,UPI,5333.0,1,0,0,0,None
+SES-12118,Android App,UPI,4718.01,1,1,1,1,None
+SES-12119,Android App,Credit Card,1212.87,1,0,0,0,None
+SES-12120,Android App,UPI,8396.79,1,1,1,0,OTP Delay / Drop
+SES-12121,Mobile Web,UPI,1257.01,1,0,0,0,None
+SES-12122,Desktop Web,UPI,3889.89,1,1,1,1,None
+SES-12123,iOS App,UPI,6981.88,1,1,0,0,None
+SES-12124,iOS App,UPI,991.93,1,1,1,1,None
+SES-12125,Android App,COD,5987.88,1,1,1,1,None
+SES-12126,Android App,UPI,6024.61,1,1,0,0,None
+SES-12127,iOS App,UPI,3408.26,1,0,0,0,None
+SES-12128,Android App,Debit Card,8265.31,1,1,1,0,Payment Gateway Timeout
+SES-12129,iOS App,UPI,4072.96,1,1,1,0,Payment Gateway Timeout
+SES-12130,Mobile Web,Credit Card,4846.79,1,1,0,0,None
+SES-12131,Android App,UPI,1186.37,1,1,1,0,Unexpected Shipping Fee
+SES-12132,Android App,Debit Card,3622.4,1,0,0,0,None
+SES-12133,Android App,UPI,3441.04,1,1,0,0,None
+SES-12134,Android App,UPI,5809.54,1,1,0,0,None
+SES-12135,Mobile Web,UPI,4180.28,1,1,0,0,None
+SES-12136,Android App,UPI,683.4,1,0,0,0,None
+SES-12137,Desktop Web,UPI,2319.5,1,1,1,1,None
+SES-12138,Android App,UPI,5613.74,1,1,1,1,None
+SES-12139,Android App,UPI,5657.7,1,0,0,0,None
+SES-12140,Android App,Debit Card,4958.96,1,0,0,0,None
+SES-12141,Android App,Credit Card,1429.31,1,1,1,1,None
+SES-12142,iOS App,UPI,2642.26,1,0,0,0,None
+SES-12143,iOS App,COD,8491.24,1,1,1,1,None
+SES-12144,iOS App,UPI,2300.88,1,0,0,0,None
+SES-12145,Android App,UPI,3437.59,1,1,1,1,None
+SES-12146,Desktop Web,UPI,3486.93,1,1,1,1,None
+SES-12147,Android App,NetBanking,5705.96,1,1,1,1,None
+SES-12148,iOS App,UPI,7043.05,1,0,0,0,None
+SES-12149,Android App,COD,4601.51,1,1,0,0,None
+SES-12150,Android App,Credit Card,5838.99,1,0,0,0,None
+SES-12151,Android App,COD,4073.36,1,1,1,1,None
+SES-12152,Android App,UPI,4015.16,1,0,0,0,None
+SES-12153,iOS App,UPI,5928.96,1,1,1,0,OTP Delay / Drop
+SES-12154,Desktop Web,Credit Card,6959.63,1,1,0,0,None
+SES-12155,Android App,UPI,3194.12,1,0,0,0,None
+SES-12156,iOS App,COD,1125.78,1,0,0,0,None
+SES-12157,Android App,COD,2202.01,1,1,1,0,OTP Delay / Drop
+SES-12158,iOS App,NetBanking,1499.84,1,1,0,0,None
+SES-12159,Android App,Credit Card,8070.98,1,1,1,0,Payment Gateway Timeout
+SES-12160,Android App,Credit Card,7943.52,1,0,0,0,None
+SES-12161,Mobile Web,COD,679.57,1,1,1,1,None
+SES-12162,Android App,Credit Card,7064.43,1,0,0,0,None
+SES-12163,Android App,UPI,6795.59,1,1,1,1,None
+SES-12164,Android App,UPI,4545.98,1,0,0,0,None
+SES-12165,iOS App,Debit Card,3338.12,1,1,1,1,None
+SES-12166,iOS App,Credit Card,4880.48,1,0,0,0,None
+SES-12167,iOS App,UPI,1176.27,1,1,1,1,None
+SES-12168,Android App,UPI,4501.08,1,1,0,0,None
+SES-12169,Mobile Web,Debit Card,6812.11,1,1,1,0,Payment Gateway Timeout
+SES-12170,Android App,UPI,2034.18,1,0,0,0,None
+SES-12171,Android App,Credit Card,8413.72,1,1,1,1,None
+SES-12172,Android App,UPI,6736.03,1,1,1,0,Payment Gateway Timeout
+SES-12173,Mobile Web,Debit Card,8065.33,1,1,1,0,Payment Gateway Timeout
+SES-12174,Mobile Web,UPI,5544.34,1,1,1,0,OTP Delay / Drop
+SES-12175,Android App,Credit Card,4728.2,1,0,0,0,None
+SES-12176,Mobile Web,Debit Card,5810.0,1,1,1,0,Payment Gateway Timeout
+SES-12177,Mobile Web,Credit Card,7652.69,1,1,1,0,Coupon Error
+SES-12178,Android App,NetBanking,800.62,1,0,0,0,None
+SES-12179,Android App,Credit Card,1683.95,1,0,0,0,None
+SES-12180,Mobile Web,UPI,1847.96,1,1,1,0,OTP Delay / Drop
+SES-12181,Mobile Web,COD,6143.68,1,0,0,0,None
+SES-12182,Mobile Web,UPI,509.28,1,1,1,0,Payment Gateway Timeout
+SES-12183,iOS App,Debit Card,3839.0,1,1,1,1,None
+SES-12184,Mobile Web,Credit Card,1092.48,1,1,0,0,None
+SES-12185,Android App,NetBanking,6299.03,1,1,1,0,Unexpected Shipping Fee
+SES-12186,Android App,COD,2174.46,1,1,1,1,None
+SES-12187,Android App,COD,2747.87,1,1,1,1,None
+SES-12188,Mobile Web,UPI,5141.41,1,1,1,0,Coupon Error
+SES-12189,Android App,Debit Card,2002.42,1,0,0,0,None
+SES-12190,iOS App,UPI,2188.88,1,1,1,1,None
+SES-12191,Android App,UPI,7715.23,1,1,0,0,None
+SES-12192,Android App,UPI,4086.71,1,1,1,1,None
+SES-12193,Android App,Debit Card,8269.73,1,1,1,1,None
+SES-12194,Android App,COD,5026.47,1,1,1,1,None
+SES-12195,Android App,Debit Card,4606.99,1,0,0,0,None
+SES-12196,Mobile Web,COD,4022.92,1,1,0,0,None
+SES-12197,Desktop Web,Debit Card,4408.33,1,1,1,0,OTP Delay / Drop
+SES-12198,Android App,COD,5838.48,1,1,1,1,None
+SES-12199,Android App,UPI,5486.14,1,1,1,1,None
+SES-12200,Android App,UPI,4099.64,1,0,0,0,None
+SES-12201,Android App,UPI,2600.81,1,1,1,0,Payment Gateway Timeout
+SES-12202,Mobile Web,Credit Card,2100.43,1,1,1,0,Payment Gateway Timeout
+SES-12203,iOS App,UPI,1678.77,1,1,0,0,None
+SES-12204,Android App,NetBanking,6519.03,1,1,1,1,None
+SES-12205,Mobile Web,Debit Card,5854.75,1,1,1,1,None
+SES-12206,iOS App,Credit Card,805.93,1,0,0,0,None
+SES-12207,iOS App,Debit Card,4502.37,1,1,1,1,None
+SES-12208,Android App,UPI,5642.06,1,0,0,0,None
+SES-12209,Mobile Web,COD,3238.01,1,1,1,0,Unexpected Shipping Fee
+SES-12210,iOS App,COD,4722.02,1,1,0,0,None
+SES-12211,iOS App,Credit Card,6494.27,1,1,0,0,None
+SES-12212,Desktop Web,UPI,926.53,1,0,0,0,None
+SES-12213,Desktop Web,Credit Card,5418.84,1,1,1,0,OTP Delay / Drop
+SES-12214,Android App,Debit Card,6477.54,1,1,1,0,Payment Gateway Timeout
+SES-12215,Android App,NetBanking,1077.93,1,0,0,0,None
+SES-12216,Desktop Web,UPI,5243.47,1,0,0,0,None
+SES-12217,Desktop Web,Debit Card,3814.85,1,1,1,1,None
+SES-12218,Mobile Web,UPI,2717.34,1,1,1,0,Coupon Error
+SES-12219,Mobile Web,Credit Card,3341.67,1,1,1,0,Payment Gateway Timeout
+SES-12220,Android App,Credit Card,6596.02,1,1,1,0,OTP Delay / Drop
+SES-12221,Mobile Web,UPI,3433.38,1,1,0,0,None
+SES-12222,Android App,UPI,1078.08,1,1,1,1,None
+SES-12223,Desktop Web,UPI,7878.38,1,1,1,1,None
+SES-12224,Android App,COD,4932.02,1,0,0,0,None
+SES-12225,Desktop Web,UPI,6485.66,1,1,0,0,None
+SES-12226,Desktop Web,UPI,1268.1,1,0,0,0,None
+SES-12227,Android App,COD,4838.63,1,0,0,0,None
+SES-12228,iOS App,UPI,505.32,1,1,1,1,None
+SES-12229,Mobile Web,UPI,5570.43,1,1,0,0,None
+SES-12230,Desktop Web,UPI,5821.85,1,1,1,1,None
+SES-12231,Android App,Credit Card,1810.62,1,1,0,0,None
+SES-12232,Mobile Web,UPI,4206.59,1,1,0,0,None
+SES-12233,iOS App,UPI,6432.84,1,1,1,1,None
+SES-12234,Android App,Debit Card,1765.42,1,1,1,1,None
+SES-12235,Mobile Web,UPI,3902.28,1,1,0,0,None
+SES-12236,Android App,Debit Card,2595.54,1,1,1,0,Unexpected Shipping Fee
+SES-12237,Desktop Web,UPI,5410.38,1,1,1,1,None
+SES-12238,Android App,UPI,6206.29,1,0,0,0,None
+SES-12239,Mobile Web,Credit Card,2759.61,1,0,0,0,None
+SES-12240,Android App,UPI,6251.9,1,0,0,0,None
+SES-12241,iOS App,Debit Card,2490.8,1,1,1,0,Payment Gateway Timeout
+SES-12242,Android App,UPI,3227.72,1,1,1,1,None
+SES-12243,Mobile Web,COD,4645.26,1,1,1,0,OTP Delay / Drop
+SES-12244,Android App,COD,603.09,1,0,0,0,None
+SES-12245,Desktop Web,Credit Card,3234.82,1,1,0,0,None
+SES-12246,Desktop Web,UPI,5150.98,1,0,0,0,None
+SES-12247,iOS App,UPI,3930.53,1,1,0,0,None
+SES-12248,Mobile Web,Debit Card,504.74,1,1,1,0,Coupon Error
+SES-12249,Android App,UPI,2607.05,1,0,0,0,None
+SES-12250,Android App,UPI,8390.79,1,1,1,1,None
+SES-12251,Android App,UPI,1355.04,1,1,1,1,None
+SES-12252,Mobile Web,COD,2554.88,1,1,1,0,Payment Gateway Timeout
+SES-12253,Android App,UPI,1326.26,1,0,0,0,None
+SES-12254,Android App,UPI,4627.08,1,1,1,1,None
+SES-12255,Android App,COD,7747.46,1,1,0,0,None
+SES-12256,iOS App,UPI,3548.56,1,1,0,0,None
+SES-12257,Android App,Debit Card,4112.56,1,1,1,1,None
+SES-12258,Mobile Web,COD,3186.91,1,0,0,0,None
+SES-12259,iOS App,UPI,2102.95,1,1,0,0,None
+SES-12260,Android App,UPI,7512.36,1,1,1,1,None
+SES-12261,Android App,UPI,5345.2,1,1,1,0,OTP Delay / Drop
+SES-12262,Android App,COD,5046.12,1,1,1,1,None
+SES-12263,Android App,UPI,4216.98,1,0,0,0,None
+SES-12264,Mobile Web,Credit Card,7157.13,1,1,0,0,None
+SES-12265,iOS App,UPI,608.13,1,1,1,1,None
+SES-12266,Android App,Debit Card,6821.87,1,0,0,0,None
+SES-12267,Android App,Credit Card,3868.37,1,0,0,0,None
+SES-12268,Android App,UPI,1590.11,1,1,0,0,None
+SES-12269,Android App,UPI,2084.24,1,1,0,0,None
+SES-12270,Android App,Credit Card,3030.32,1,1,0,0,None
+SES-12271,Desktop Web,UPI,3265.97,1,1,0,0,None
+SES-12272,Android App,UPI,7213.5,1,0,0,0,None
+SES-12273,Android App,COD,7636.49,1,1,1,1,None
+SES-12274,iOS App,Credit Card,5729.88,1,0,0,0,None
+SES-12275,Android App,Credit Card,857.19,1,1,1,1,None
+SES-12276,Android App,UPI,4896.53,1,1,0,0,None
+SES-12277,Desktop Web,UPI,7081.01,1,1,1,1,None
+SES-12278,Android App,UPI,3032.14,1,1,1,1,None
+SES-12279,Android App,UPI,4528.06,1,0,0,0,None
+SES-12280,Mobile Web,UPI,4424.4,1,0,0,0,None
+SES-12281,Mobile Web,Debit Card,4423.13,1,1,1,0,Payment Gateway Timeout
+SES-12282,Desktop Web,Credit Card,2268.4,1,1,0,0,None
+SES-12283,Android App,NetBanking,852.21,1,0,0,0,None
+SES-12284,Desktop Web,UPI,6868.34,1,1,1,1,None
+SES-12285,Android App,Credit Card,7545.09,1,1,1,1,None
+SES-12286,Android App,Credit Card,893.45,1,0,0,0,None
+SES-12287,Android App,UPI,5944.35,1,0,0,0,None
+SES-12288,Android App,UPI,3787.1,1,0,0,0,None
+SES-12289,iOS App,Debit Card,1926.78,1,1,1,0,Payment Gateway Timeout
+SES-12290,Desktop Web,UPI,7326.63,1,0,0,0,None
+SES-12291,Mobile Web,Debit Card,1849.84,1,1,0,0,None
+SES-12292,Mobile Web,Debit Card,5273.38,1,1,1,0,Payment Gateway Timeout
+SES-12293,Android App,UPI,4577.57,1,0,0,0,None
+SES-12294,iOS App,UPI,4302.35,1,1,0,0,None
+SES-12295,Android App,Credit Card,7709.97,1,1,1,1,None
+SES-12296,Android App,UPI,1626.09,1,1,0,0,None
+SES-12297,iOS App,Debit Card,7955.23,1,1,0,0,None
+SES-12298,Android App,COD,1005.16,1,0,0,0,None
+SES-12299,iOS App,UPI,7650.09,1,1,0,0,None
+SES-12300,iOS App,Debit Card,7152.42,1,0,0,0,None
+SES-12301,Android App,UPI,7530.93,1,1,0,0,None
+SES-12302,Android App,UPI,4247.16,1,1,0,0,None
+SES-12303,iOS App,UPI,2698.44,1,1,1,1,None
+SES-12304,Android App,UPI,7660.7,1,1,1,1,None
+SES-12305,Desktop Web,Credit Card,1792.26,1,1,1,1,None
+SES-12306,Desktop Web,Credit Card,1729.15,1,0,0,0,None
+SES-12307,Desktop Web,Debit Card,6353.37,1,1,1,1,None
+SES-12308,Mobile Web,UPI,2187.26,1,0,0,0,None
+SES-12309,Mobile Web,UPI,4008.81,1,1,0,0,None
+SES-12310,Mobile Web,NetBanking,4125.55,1,1,0,0,None
+SES-12311,Mobile Web,NetBanking,5737.86,1,1,1,1,None
+SES-12312,Android App,UPI,3018.04,1,0,0,0,None
+SES-12313,Android App,UPI,2175.36,1,1,1,1,None
+SES-12314,iOS App,COD,1334.95,1,1,1,1,None
+SES-12315,Mobile Web,Debit Card,1265.13,1,0,0,0,None
+SES-12316,Desktop Web,Credit Card,3409.17,1,1,1,1,None
+SES-12317,Mobile Web,UPI,6047.77,1,1,0,0,None
+SES-12318,Android App,NetBanking,4084.81,1,0,0,0,None
+SES-12319,iOS App,UPI,5916.27,1,0,0,0,None
+SES-12320,Mobile Web,UPI,5441.43,1,0,0,0,None
+SES-12321,iOS App,COD,4482.45,1,1,0,0,None
+SES-12322,Mobile Web,NetBanking,3783.45,1,1,1,0,Payment Gateway Timeout
+SES-12323,Android App,NetBanking,2320.29,1,1,0,0,None
+SES-12324,iOS App,NetBanking,3327.17,1,1,1,0,OTP Delay / Drop
+SES-12325,Android App,UPI,6854.87,1,1,0,0,None
+SES-12326,Android App,UPI,7340.73,1,1,1,1,None
+SES-12327,Android App,COD,8337.85,1,0,0,0,None
+SES-12328,Android App,UPI,6140.21,1,1,1,1,None
+SES-12329,iOS App,UPI,6159.89,1,1,1,1,None
+SES-12330,Android App,COD,1608.36,1,1,0,0,None
+SES-12331,Android App,UPI,8182.09,1,1,0,0,None
+SES-12332,Mobile Web,NetBanking,3680.48,1,1,1,1,None
+SES-12333,Android App,UPI,4344.66,1,1,1,1,None
+SES-12334,iOS App,Credit Card,2556.21,1,0,0,0,None
+SES-12335,Desktop Web,UPI,8225.19,1,0,0,0,None
+SES-12336,Android App,Credit Card,3166.28,1,1,1,1,None
+SES-12337,Android App,Credit Card,3984.15,1,0,0,0,None
+SES-12338,Android App,Debit Card,5986.7,1,1,1,1,None
+SES-12339,Mobile Web,UPI,5375.84,1,0,0,0,None
+SES-12340,iOS App,UPI,4387.95,1,0,0,0,None
+SES-12341,Android App,UPI,2209.62,1,1,1,1,None
+SES-12342,Android App,Debit Card,5785.48,1,1,0,0,None
+SES-12343,Desktop Web,Debit Card,915.42,1,0,0,0,None
+SES-12344,Desktop Web,COD,4046.01,1,1,0,0,None
+SES-12345,iOS App,COD,4757.97,1,0,0,0,None
+SES-12346,Desktop Web,UPI,2027.61,1,0,0,0,None
+SES-12347,Android App,Credit Card,7029.64,1,1,1,1,None
+SES-12348,Desktop Web,UPI,878.37,1,1,1,1,None
+SES-12349,Mobile Web,Credit Card,2087.54,1,1,1,0,OTP Delay / Drop
+SES-12350,Mobile Web,Debit Card,4496.45,1,1,1,1,None
+SES-12351,Android App,COD,5806.56,1,1,1,1,None
+SES-12352,Android App,UPI,6348.55,1,1,0,0,None
+SES-12353,Android App,UPI,4738.2,1,1,1,1,None
+SES-12354,Android App,Credit Card,1442.63,1,1,1,1,None
+SES-12355,Mobile Web,UPI,500.94,1,0,0,0,None
+SES-12356,Android App,COD,7438.7,1,0,0,0,None
+SES-12357,Android App,Debit Card,5368.18,1,1,1,1,None
+SES-12358,Desktop Web,UPI,5951.37,1,1,0,0,None
+SES-12359,Android App,UPI,8210.51,1,0,0,0,None
+SES-12360,iOS App,UPI,1461.29,1,1,1,1,None
+SES-12361,Mobile Web,Credit Card,3490.88,1,0,0,0,None
+SES-12362,Desktop Web,UPI,2929.09,1,1,1,1,None
+SES-12363,Desktop Web,UPI,2517.27,1,0,0,0,None
+SES-12364,iOS App,NetBanking,1324.28,1,1,1,1,None
+SES-12365,Desktop Web,NetBanking,1949.18,1,1,0,0,None
+SES-12366,Mobile Web,UPI,3717.76,1,1,1,1,None
+SES-12367,Mobile Web,COD,1512.37,1,1,1,1,None
+SES-12368,Android App,Credit Card,3509.87,1,0,0,0,None
+SES-12369,Android App,UPI,5983.99,1,1,1,1,None
+SES-12370,Android App,UPI,7028.08,1,1,1,1,None
+SES-12371,Mobile Web,Credit Card,2886.9,1,1,1,1,None
+SES-12372,iOS App,UPI,2387.3,1,1,0,0,None
+SES-12373,Mobile Web,UPI,1257.24,1,0,0,0,None
+SES-12374,Android App,UPI,1050.99,1,1,1,0,Coupon Error
+SES-12375,Android App,UPI,2427.21,1,1,1,1,None
+SES-12376,Desktop Web,Credit Card,3417.91,1,1,0,0,None
+SES-12377,Desktop Web,UPI,3179.4,1,0,0,0,None
+SES-12378,Android App,UPI,3032.79,1,1,0,0,None
+SES-12379,Mobile Web,UPI,5117.18,1,1,0,0,None
+SES-12380,Android App,UPI,3758.65,1,0,0,0,None
+SES-12381,Desktop Web,UPI,5812.26,1,1,0,0,None
+SES-12382,Android App,UPI,967.35,1,0,0,0,None
+SES-12383,Android App,UPI,1891.26,1,1,0,0,None
+SES-12384,Mobile Web,UPI,4962.04,1,1,1,1,None
+SES-12385,Android App,Credit Card,5002.2,1,1,1,0,Payment Gateway Timeout
+SES-12386,Android App,Debit Card,7470.09,1,0,0,0,None
+SES-12387,Android App,UPI,7682.26,1,1,0,0,None
+SES-12388,Android App,Credit Card,3375.7,1,0,0,0,None
+SES-12389,Android App,Credit Card,4700.65,1,1,1,0,Payment Gateway Timeout
+SES-12390,iOS App,NetBanking,5223.0,1,1,1,0,Payment Gateway Timeout
+SES-12391,iOS App,Debit Card,6841.42,1,0,0,0,None
+SES-12392,iOS App,UPI,6181.1,1,1,1,1,None
+SES-12393,Mobile Web,UPI,3793.39,1,1,1,0,Payment Gateway Timeout
+SES-12394,Mobile Web,UPI,5226.57,1,0,0,0,None
+SES-12395,Desktop Web,NetBanking,7871.58,1,1,1,1,None
+SES-12396,Desktop Web,UPI,5481.55,1,1,1,1,None
+SES-12397,Android App,COD,2513.77,1,0,0,0,None
+SES-12398,Desktop Web,Credit Card,6848.09,1,0,0,0,None
+SES-12399,Android App,UPI,6566.99,1,1,1,0,Payment Gateway Timeout
+SES-12400,Mobile Web,UPI,5756.61,1,1,1,1,None
+SES-12401,Android App,Credit Card,6067.95,1,1,1,1,None
+SES-12402,Android App,UPI,1056.24,1,0,0,0,None
+SES-12403,iOS App,Credit Card,6437.35,1,1,0,0,None
+SES-12404,iOS App,UPI,3684.1,1,1,1,0,Payment Gateway Timeout
+SES-12405,Android App,COD,7488.32,1,1,1,1,None
+SES-12406,Android App,Credit Card,7278.22,1,1,1,1,None
+SES-12407,Android App,UPI,1095.16,1,0,0,0,None
+SES-12408,iOS App,COD,6045.37,1,1,1,1,None
+SES-12409,Android App,UPI,6670.36,1,0,0,0,None
+SES-12410,Mobile Web,Credit Card,5655.03,1,1,1,1,None
+SES-12411,Android App,NetBanking,6805.99,1,1,0,0,None
+SES-12412,Android App,Debit Card,2218.05,1,1,1,1,None
+SES-12413,Android App,UPI,1928.21,1,0,0,0,None
+SES-12414,Android App,UPI,4567.82,1,1,0,0,None
+SES-12415,iOS App,UPI,732.39,1,1,1,1,None
+SES-12416,iOS App,UPI,2888.68,1,1,0,0,None
+SES-12417,Mobile Web,Debit Card,7361.98,1,0,0,0,None
+SES-12418,iOS App,UPI,6069.47,1,0,0,0,None
+SES-12419,Android App,UPI,1019.07,1,1,1,1,None
+SES-12420,Mobile Web,UPI,7724.68,1,1,1,0,Unexpected Shipping Fee
+SES-12421,iOS App,Debit Card,5455.18,1,1,1,1,None
+SES-12422,Mobile Web,UPI,6786.25,1,1,1,0,OTP Delay / Drop
+SES-12423,Desktop Web,Credit Card,4200.42,1,1,1,1,None
+SES-12424,Mobile Web,NetBanking,4935.47,1,1,0,0,None
+SES-12425,Android App,UPI,8244.55,1,1,0,0,None
+SES-12426,Mobile Web,NetBanking,761.64,1,1,1,0,OTP Delay / Drop
+SES-12427,iOS App,NetBanking,893.24,1,0,0,0,None
+SES-12428,Mobile Web,Credit Card,2077.71,1,1,1,1,None
+SES-12429,Android App,UPI,4746.4,1,0,0,0,None
+SES-12430,Android App,UPI,7001.36,1,0,0,0,None
+SES-12431,Android App,UPI,4126.42,1,1,1,1,None
+SES-12432,iOS App,Debit Card,4078.11,1,0,0,0,None
+SES-12433,Mobile Web,Credit Card,1403.91,1,0,0,0,None
+SES-12434,Android App,UPI,3674.51,1,1,0,0,None
+SES-12435,Mobile Web,Credit Card,3604.45,1,1,1,1,None
+SES-12436,Android App,UPI,5103.58,1,0,0,0,None
+SES-12437,Android App,Credit Card,1864.59,1,1,0,0,None
+SES-12438,Mobile Web,COD,2562.77,1,1,1,1,None
+SES-12439,iOS App,COD,3165.27,1,1,1,1,None
+SES-12440,iOS App,UPI,5347.73,1,0,0,0,None
+SES-12441,Android App,COD,6225.02,1,1,0,0,None
+SES-12442,Mobile Web,Debit Card,5217.42,1,0,0,0,None
+SES-12443,Android App,COD,8154.64,1,1,1,1,None
+SES-12444,iOS App,COD,5166.25,1,1,1,1,None
+SES-12445,iOS App,UPI,2173.51,1,1,1,1,None
+SES-12446,Android App,UPI,4577.3,1,0,0,0,None
+SES-12447,Android App,UPI,8345.17,1,0,0,0,None
+SES-12448,Android App,UPI,1567.26,1,0,0,0,None
+SES-12449,Android App,Debit Card,5065.04,1,1,0,0,None
+SES-12450,Mobile Web,UPI,5074.2,1,1,1,1,None
+SES-12451,Android App,UPI,591.22,1,0,0,0,None
+SES-12452,Android App,UPI,1434.15,1,0,0,0,None
+SES-12453,Desktop Web,UPI,1541.72,1,0,0,0,None
+SES-12454,Android App,Credit Card,1011.41,1,1,1,1,None
+SES-12455,Mobile Web,COD,2473.23,1,0,0,0,None
+SES-12456,iOS App,UPI,5625.32,1,1,1,1,None
+SES-12457,Android App,UPI,2153.9,1,1,1,1,None
+SES-12458,Mobile Web,UPI,1936.45,1,1,1,0,OTP Delay / Drop
+SES-12459,iOS App,COD,1438.92,1,1,0,0,None
+SES-12460,Mobile Web,Debit Card,1419.2,1,1,1,0,OTP Delay / Drop
+SES-12461,Android App,COD,1632.03,1,0,0,0,None
+SES-12462,iOS App,UPI,8154.47,1,1,1,1,None
+SES-12463,Android App,COD,7711.79,1,0,0,0,None
+SES-12464,Android App,NetBanking,8464.83,1,1,1,1,None
+SES-12465,Android App,UPI,4660.97,1,1,1,1,None
+SES-12466,Android App,UPI,2260.25,1,0,0,0,None
+SES-12467,Android App,UPI,1867.99,1,1,1,1,None
+SES-12468,Desktop Web,Debit Card,1180.69,1,0,0,0,None
+SES-12469,Mobile Web,Credit Card,8149.73,1,0,0,0,None
+SES-12470,Android App,UPI,7922.26,1,1,1,1,None
+SES-12471,Desktop Web,Debit Card,6625.87,1,1,1,1,None
+SES-12472,Android App,Credit Card,2351.9,1,1,0,0,None
+SES-12473,Android App,NetBanking,1579.44,1,1,1,1,None
+SES-12474,iOS App,COD,1985.84,1,0,0,0,None
+SES-12475,Desktop Web,COD,4944.49,1,1,1,0,Payment Gateway Timeout
+SES-12476,Android App,UPI,2973.9,1,1,1,1,None
+SES-12477,Android App,COD,1726.07,1,0,0,0,None
+SES-12478,Mobile Web,UPI,5269.06,1,1,1,1,None
+SES-12479,Desktop Web,UPI,1983.39,1,1,1,1,None
+SES-12480,Mobile Web,Debit Card,6003.93,1,1,1,1,None
+SES-12481,Android App,UPI,8147.31,1,0,0,0,None
+SES-12482,Desktop Web,UPI,7269.4,1,0,0,0,None
+SES-12483,iOS App,UPI,1753.26,1,1,0,0,None
+SES-12484,Android App,Credit Card,679.06,1,1,1,0,OTP Delay / Drop
+SES-12485,Mobile Web,Debit Card,5580.89,1,1,0,0,None
+SES-12486,Desktop Web,UPI,4955.94,1,0,0,0,None
+SES-12487,Mobile Web,Credit Card,3090.49,1,1,1,0,Payment Gateway Timeout
+SES-12488,Desktop Web,UPI,7524.8,1,1,0,0,None
+SES-12489,iOS App,Debit Card,6933.89,1,1,1,1,None
+SES-12490,Mobile Web,UPI,4608.58,1,1,1,1,None
+SES-12491,Mobile Web,UPI,3604.36,1,1,0,0,None
+SES-12492,Android App,COD,1227.38,1,1,1,1,None
+SES-12493,iOS App,UPI,3744.36,1,1,1,1,None
+SES-12494,Mobile Web,UPI,5249.24,1,1,1,1,None
+SES-12495,Mobile Web,NetBanking,1863.41,1,0,0,0,None
+SES-12496,Desktop Web,Credit Card,7554.72,1,1,1,1,None
+SES-12497,iOS App,Credit Card,7852.23,1,1,1,1,None
+SES-12498,Desktop Web,UPI,2694.58,1,0,0,0,None
+SES-12499,Android App,UPI,2794.22,1,0,0,0,None
+SES-12500,Android App,COD,1057.97,1,0,0,0,None
